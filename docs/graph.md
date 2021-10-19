@@ -19,11 +19,27 @@ My personal blog provides many articles that attempt to explain the business val
 ### 2019 Trends
 [Looking Forward to 2019 in Graph Technologies](https://dmccreary.medium.com/looking-forward-to-2019-in-graph-technologies-981517319ec4)
 
+## General Graph Blogs
+
+### From Lakes to Hubs to Graph
+[From Lakes to Hubs to Graph](https://dmccreary.medium.com/from-lakes-to-hubs-to-graph-1eb23e93007c)
+
+August 25th 2019 blog post on how we are moving to hardware-optimized graph databases.
+
+The evolution of large-scale big data technologies driving AI. We are building on knowledge gained from single-node graphs, Data Lakes, Data Hubs, and Enterprise Knowledge Graphs. In the future, we will see low-cost extensible custom VLSI graph hardware dedicated to solving large graph problems.
 
 ## Graph Videos
 
 ### Graph + AI Summit Keynote
 [Graph + AI Summit Keynote Video](https://info.tigergraph.com/graph-ai-summit-fall-session-dan-mccreary)
+
+### Connecting Healthcare
+
+[Connecting Healthcare](https://www.youtube.com/watch?v=kj_DyFKFzSI)
+
+This was a talk I did for the Neo4j GraphConnect conference in 2018.
+
+Many healthcare organizations today only see small parts of the healthcare system. Few organizations are taking a long-term holistic approach to gaining insights into healthcare. Much of the high costs are driven by the lack of connected information. Making a high quality prediction of how to improve healthcare for an individual means taking many data points into account. Dan McCreary, Distinguished Engineer, Optum Healthcare #GraphDatabases #HealthcareData #GraphConnect
 
 ## Minnesota State IT Center of Excellence
 
