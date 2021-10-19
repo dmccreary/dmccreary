@@ -1,3 +1,3 @@
-# About Dan McCreary
+## About Dan McCreary
 
-Please go to the documentation page [here](https://dmccreary.github.io/dmccreary/)
+Please go to my personal documentation page [here](https://dmccreary.github.io/dmccreary/)
