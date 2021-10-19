@@ -6,7 +6,7 @@
 
 [Making Sense of NoSQL (Manning Site)](https://www.manning.com/books/making-sense-of-nosql)
 
-This is a book I wrote with Ann Kelly.  It got very good reviews and I feel that the patterns we identified in this book will be relevant for many years to come. 
+This is a book I wrote on database selection with Ann Kelly.  It got good reviews and I feel that the patterns we identified in this book will be relevant for many years to come.  I am most proud of Chapter 12 that shows how to use the CMU SEI [Architectural Tradeoff Analysis Process (ATAM)](https://en.wikipedia.org/wiki/Architecture_tradeoff_analysis_method) to perform objective matching between a business challenge and a database architecture.
 
 ## Chapters:
 
