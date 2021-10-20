@@ -33,6 +33,19 @@ The evolution of large-scale big data technologies driving AI. We are building o
 ### Graph + AI Summit Keynote
 [Graph + AI Summit Keynote Video](https://info.tigergraph.com/graph-ai-summit-fall-session-dan-mccreary)
 
+## Podcasts
+
+### AI & Enterprise Knowledge Graphs Conversations on AppliedAI Podcast
+[AI & Enterprise Knowledge Graphs on the Conversations on AppliedAI Podcast](https://www.youtube.com/watch?v=fUEnFXAEPBE)
+In this episode, Dan McCreary, Distinguished Engineer in AI and Graph at Optum shares with us his deep experience in Graph Databases, the AI racing league, and why Enterprise Knowledge Graphs will rule the world in the areas of Healthcare and Artificial Intelligence.
+
+* Graph Databases
+* Enterprise Knowledge Graphs
+* AI Racing League
+* Optum
+* IoTHackday
+* Arduino
+
 ### Connecting Healthcare
 
 [Connecting Healthcare](https://www.youtube.com/watch?v=kj_DyFKFzSI)
