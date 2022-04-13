@@ -1,6 +1,7 @@
 site_name: Dan McCreary Personal Microsite
 nav:
   - Home: index.md
+  - Videos: videos.md
   - Graph: graph.md
   - NoSQL & ATAM: nosql.md
   - AI Hardware: ai-hardware.md

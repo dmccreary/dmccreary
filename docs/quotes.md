@@ -15,3 +15,7 @@ This quote has been widely used many other setting and I always appreciate attri
 
 *Never mistake a clear view for a short distance.*
 - Paul Saffo
+
+This is sometimes stated as:
+
+*Never mistake a clear view of the future for a short distance.*
