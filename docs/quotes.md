@@ -11,7 +11,7 @@ This quote has been widely used many other setting and I always appreciate attri
 ## My Favorite Quotes From Others
 
 *Representation is the hardest part of AI.*
-- Jeff Hawkins {align:right}
+- Jeff Hawkins
 
 *Never mistake a clear view for a short distance.*
-- Paul Saffo {align:right}
+- Paul Saffo
