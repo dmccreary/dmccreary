@@ -6,7 +6,7 @@
 
 ![](img/dan-mccreary-headshot-2021-small.png){align=right}
 
-I am a solution architect currently working as a Distinguished Engineer for Optum.  I am a keynote speaker, writer and author of books and articles.  I am a strong advocate of open source software and I am passionate about mentoring my peers and students in STEM programs.
+I am a solution architect currently working as a Distinguished Engineer for Optum.  I am a keynote speaker, writer and author of books and articles.  I am a strong advocate of systems thinking, open source software, and mentoring my peers and students in STEM programs.  I am a fan of AI and strategic knowledge management.
 
 ## My Personal Mission Statement
 
