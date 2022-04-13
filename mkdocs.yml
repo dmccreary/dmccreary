@@ -1,12 +1,12 @@
 site_name: Dan McCreary Personal Microsite
 nav:
   - Home: index.md
-  - Hardware: hardware.md
-  - NoSQL: nosql.md
   - Graph: graph.md
+  - NoSQL & ATAM: nosql.md
   - AI Hardware: ai-hardware.md
   - STEM: stem.md
   - Books: books.md
+  - VLSI Hardware: hardware.md
   - Quotes: quotes.md
   - Contact: contact.md
 repo_name: 'Go to GitHub'

@@ -2,7 +2,7 @@
 
 ## About Me
 
-![](img/dan-mccreary-headshot-2021-small.png){align=right}
+![](img/dan-mccreary-headshot-2021-xsmall.png){align=right}
 
 I am a solution architect currently working as a Distinguished Engineer for Optum.  I am a keynote speaker, blogger, and author of books and articles about technology and leadership.  I am a strong advocate of systems thinking, open-source software, and mentoring peers and students in STEM programs.  I am a fan of AI and strategic knowledge management.
 
