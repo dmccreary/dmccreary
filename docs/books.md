@@ -24,8 +24,11 @@
 
 ## XForms
 
+![Xforms Book Cover](img/xforms-cover.jpg)
 [Link to XForms Wikibook](https://en.wikibooks.org/wiki/XForms)
 
 ## XRX
+
+![XRX Book Cover](img/xrx-book-cover.jpg)
 
 [Link to XRX Wikibook](https://en.wikibooks.org/wiki/XRX)
