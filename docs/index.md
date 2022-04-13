@@ -1,18 +1,16 @@
 # Dan McCreary Personal Microsite
 
+
+
 ## About Me
 
-I am a solution architect working as a Distinguished Engineer for Optum.  I am a blogger and co-author of two books.  I have an interest in:
+![](img/dan-mccreary-headshot-2021-small.png){align=right}
 
-1. Enterprise Knowledge [Graphs](graph.md)
-2. [NoSQL](nosql.md) Databases Selection
-3. [AI Hardware Acceleration](ai-hardware.md)
-3. [STEM](stem.md) Education
-
+I am a solution architect currently working as a Distinguished Engineer for Optum.  I am a keynote speaker, writer and author of books and articles.  I am a strong advocate of open source software and I am passionate about mentoring my peers and students in STEM programs.
 
 ## My Personal Mission Statement
 
-I leverage storytelling to explain the business value of emerging technologies to decision makers.
+  *I leverage storytelling to explain the business value of emerging technologies to decision makers.*
 
 ## Contact
 
