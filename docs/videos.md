@@ -1,6 +1,6 @@
 # Dan McCreary Videos 
 
-## Graph+IA Summit
+## Graph+AI Summit
 
 This video was presented in October of 2021 at the Graph+AI Summit in San Francisco, CA
 
