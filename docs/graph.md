@@ -59,3 +59,31 @@ Many healthcare organizations today only see small parts of the healthcare syste
 [Graph Databases and A.I. - How Graph Databases Are The Next Step in A.I. For Your Classroom](https://youtu.be/me8yBVwKIU8)
 
 Graph databases are the fastest growing type of databases today.  Although their flexibility has always been strong, now they have scale-out ability to cost-effectively store every touchpoint of our interactions with our customers including down to the individual slide they view. Learn more about how graph databases cost-effectively store all detail of customer interactions, how organizations currently use this knowledge, and how faculty can use this technology to help the learning experience of students.
+
+<!-- 
+The Medium blog posts (Dan McCreary, Distinguished Engineer @ Optum/UHG)
+●	The Learning-Knowledge-Languate Innovation Hot Zone (8 min read)
+●	From Flatland to HOG Heaven (15 min read)
+●	Auto-Generarting EKG Documents (7 min read)
+●	intel and Dell Lead Next-Gen Enterprise Knowledge Graph Funding (5 min read)
+●	A Definition of “Enterprise” in EKGs (5 min read)
+●	Enterprise Knowledge Graph Trends for 2021 (13 min read)
+●	Rules for Knowledge Graphs (14 min read)
+●	Understanding Graph Embeddings (12 min read)
+●	Adaptable Architecture (4 min read)
+●	The God Graph – Enterprise Knowledge Graph (5 min read)
+●	In Situ Machine Learning (4 min read)
+●	Graph+AI World Highlights  (3 min read)
+●	Enterprise Knowledge Graph 2020 (11 min read)
+●	The Knowledge Triangle (9 min read)
+●	From Lakes to Hubs to Graph (10 min read)
+●	From Data Science to Knowledge Science (7 min read)
+●	Knowledge Graphs: The Third Era of Computing  (5 min read)
+●	A Taxonomy of Graph Use Cases (5 min read)
+●	Graph Databases, Data Modeling and the Jenga Tower Metaphor (4 min read)
+●	How to Explain Index-free Adjacency to Your Manager (6 min read)
+●	The Book of Why, by Judea Pearl (3 min read)
+
+
+
+-->

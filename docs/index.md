@@ -10,6 +10,10 @@ I am a solution architect currently working as a Distinguished Engineer for Optu
 
   *I leverage storytelling to explain the business value of emerging technologies to decision makers.*
 
+## My GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=dmccreary&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+
 ## Contact
 
 The best way to contact me is to put in a request to join my LinkedIn network:
