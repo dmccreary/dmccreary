@@ -35,15 +35,15 @@ I am a seasoned **Solution Architect** with a profound background in **Knowledge
 
 I have been a keynote speaker at several prestigious technology conferences, spreading insights and thought leadership on AI, knowledge graphs, and advanced technology solutions.
 
-### Passion
+### Passion for Systems Thinking
 
-**Systems Thinking** and **Complex Adaptive Systems** are not just principles I work by, but are the lenses through which I view the world. I am deeply invested in exploring the interconnections and interactions that govern systems and love elucidating these complex phenomena.
+**Systems Thinking** and **Complex Adaptive Systems** are not just principles I work by but are the lenses through which I view the world. I am deeply invested in exploring the interconnections and interactions that govern systems and love elucidating these complex phenomena.
 
 ### Education
 
 **BA** - Carleton College - Physics and Computer Science
 **MSEE** - University of Minnesota
-**MBA** - University of St. Thomas 33 of 36 credits done - (a work in progress)
+**MBA** - University of St. Thomas - 33 of 36 credits done (a work in progress)
 
 ### Contact Information
 - **LinkedIn:** [https://www.linkedin.com/in/danmccreary/](https://www.linkedin.com/in/danmccreary/)
