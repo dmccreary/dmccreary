@@ -4,7 +4,9 @@
 
 [CoderDojo Twin Cities Python Microsite](https://www.coderdojotc.org/python/)
 
-This microsite contains lessons for CoderDojo students to learn Python.  Python has been our most popular language.  We are always looking for Python Mentors that can volunteer to work with girls and disadvantage youth in these programs.
+This microsite contains lessons for CoderDojo students to learn Python.  Python has been our most popular language.  We are always looking for Python Mentors that can volunteer to work with girls and disadvantage youth in these programs.  Most of the lessons run on the
+Trinket.com web site.  We are most proud of our Journey Map that helps student get
+oriented on their Python journey.
 
 ## CoderDojoTC MicroPython Microsite
 
@@ -35,6 +37,16 @@ wall decorations, night lights, clocks, signs and many more projects.
 With the advent of low-cost and bright OLED displays our students have wanted to add "faces" to our robots
 that show expressions like happiness, surprise, sleepyness, etc.  These labs use the new MicroPython
 ellipse and poly functions introduced in 2023 to make drawing even complex shapes like eyebrows possible.
+
+## Generative AI For Teachers
+
+[Generative AI For Teachers Website](http://www.coderdojotc.org/chatgpt-for-teachers/)
+
+This website was originally started to help teachers use Generative AI to help 
+automate time-consuming tasks such as generating customized lesson plans for
+students.  It has grown to include a rich library of simulations for helping
+instructors demonstrate concepts.  The site also includes a link to the video
+of our presentation.
 
 ## Clocks and Watches
 
