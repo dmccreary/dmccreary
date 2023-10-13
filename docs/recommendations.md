@@ -11,6 +11,7 @@ Reformat the recomendations in the following Markdown format:
 
 Text of the recommendation.
 
+Never change the text or summarize.  Keep working until all the recommendations are complete.
 
 -->
 
@@ -55,7 +56,8 @@ Dan's accomplishments in AI and solution architecture are remarkable, and I whol
 #### Dr. Bilikis Jumoke Oladimeji 
 
 * MD, MMCi, CPHIMS 
-* September 17, 2023, Bilikis Jumoke worked with Dan but on different teams
+* September 17, 2023
+* Bilikis Jumoke worked with Dan but on different teams
 
 Dan is one of those individuals whose presence accelerates thoughtful innovation and capacity building. Though I did not work with him on the same team, my observation of his leadership and contributions on enterprise-wide initiatives that we converged on, is quite impressive. More recently building the Generative AI Center of Excellence and summer programming for teaching and mentoring the next generation of STEM and CS leaders. His track record of excellence and trustworthiness is so long and evident in both internal and external accomplishments.
 I have gratitude and respect for all I have witnessed of Dan’s work. He is a treasure to any organization that could leverage deep expertise in AI and general innovation. I strongly recommend him!Dan is one of those individuals whose presence accelerates thoughtful innovation and capacity building. Though I did not work with him on the same team, my observation of his leadership and contributions on enterprise-wide initiatives that we converged on, is quite impressive. More recently building the Generative AI Center of Excellence and summer programming for teaching and mentoring the next generation of STEM and CS leaders. His track record of excellence and trustworthiness is so long and evident in both internal and external accomplishments. I have gratitude and respect for all I have witnessed of Dan’s work. He is a treasure to any organization that could leverage deep expertise in AI and general innovation. I strongly recommend him!
@@ -78,8 +80,9 @@ I have had the pleasure of working with Dan at Optum. Dan brings with him passio
 
 #### Andrei Filimonov 
 
-AI enthusiast and engineering leader passionate about incubating and launching cutting-edge products that make a differenceAI enthusiast and engineering leader passionate about incubating and launching cutting-edge products that make a difference
-September 5, 2023, Andrei worked with Dan on the same teamSeptember 5, 2023, Andrei worked with Dan on the same team
+* AI enthusiast and engineering leader passionate about incubating and launching cutting-edge products that make a difference
+* September 5, 2023
+* Andrei worked with Dan on the same team
 
 If you're looking for a rockstar in the AI Engineering world, look no further than Dan. I had the absolute pleasure of working with him at Optum and let me tell you, he's a game-changer.
 
@@ -94,66 +97,71 @@ So, if your company is serious about leveraging AI to gain a competitive advanta
 #### Ryan Duhon 
 
 * Senior Instructional Designer at Lumious
-* August 29, 2023, Dan was Ryan’s client
+* August 29, 2023
+* Dan was Ryan’s client
 
 I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!
+
 #### Stephen St. Peter
+
 * Principal Engineer at UnitedHealth Group
 * August 27, 2023
 * Stephen worked with Dan but on different teams
 
 I appreciate Dan for his willingness to share his time, wisdom, and experiences with junior employees like myself. I was recommended to reach out to Dan for one particular issue which he helped me with, but then found him to be a wealth of guidance and help for many other political, architectural, and technological topics. He has a gift for taking complex issues, boiling them down to a digestible and understandable narrative, then providing a clear vision for the future.
 
----
-
 #### Kristen Edblom
-* Program Manager for Technology Development Program at Optum (formerly Alere Wellbeing)
+
+* Program Manager for Technology Development Program at Optum
 * August 25, 2023
 * Kristen worked with Dan but on different teams
 
 Dan is one of the most knowledgeable and education-oriented engineers with whom I have ever worked. Dan served as a curriculum lead for the Data Science and Engineering career track of the Technology Development Program Bootcamp at Optum. His expertise in the field was incredibly valuable and the curriculum he built continues to educate many early-career data scientists and engineers globally. Dan is an incredible asset to any team with which he works.
 
----
-
 #### Randy Olinger
+
 * Distinguished Engineer, Optum / Unitedhealth Group
 * August 24, 2023
 * Randy worked with Dan on the same team
 
 I have worked closely with Dan for over ten years, both during the rescue of healthcare.gov and when he joined Optum. During that time I can honestly say I have known few people with his ability to evaluate technologies and tie creative ideas to business value. He has that unique ability to both sell people on a big idea and execute on the idea. Dan is as good a futurist as economist as technologist. I have also worked closely with him on the evangelism of AI and machine learning at Optum. Dan started the Optum AI racing league, which was a creative way to engage engineers in a fun way to do their first machine learning project. Dan created the idea, found funding, and hosted training sessions for over 250 people. I'm proud to know Dan, you would be too.
 
----
-
 #### Brandon Moe
+
 * Senior Software Engineer at Optum
 * August 24, 2023
 * Dan was senior to Brandon but didn't manage Brandon directly
 
 Dan is a very special talent. There are very few people that I have come across in my career with both the depth and breadth of knowledge that Dan has accumulated. Even more rare, Dan has an unmatched ability to convey that knowledge in an easy to comprehend way regardless of the audience. As many other do, I have the privilege of calling Dan a mentor. Dan is extremely generous with his time and knowledge, he has a true passion for educating others and has a genuine interest in the success of those around him. He is an individual who's value far exceeds his individual contributions by making everyone around him not just more productive contributors but better people. If you are lucky enough to share five or ten minutes with Dan you will surely see him highlight his passion of sharing knowledge and his incredible generosity. Any organization would be lucky to have Dan.
 
----
-
 #### Carl Boudreau
+
 * Emergent Technology Leader
 * August 22, 2023
 * Dan was senior to Carl but didn't manage Carl directly
 
 If you're looking for a mentor to help you achieve your career goals, look no further than Dan McCreary. Just Google Dan McCreary to showcase his impressive achievements and leadership in the community, but what sets him apart is his willingness to go above and beyond to help others succeed. I've personally benefited from Dan's advice and support, and I can wholeheartedly recommend him as a mentor for anyone seeking career advancement. He has a wealth of expertise in his field of Healthcare, Robotics, AI, Graph, and more. Dan's approachable personality and genuine interest in helping others make him an invaluable resource. But what really sets Dan apart is his generosity and dedication to making a positive impact. Whether it's through mentoring, volunteering, or supporting local charities, Dan is always looking for ways to give back to his community.
+
 #### Hadi Halim, Ph.D.
+
 * Usable AI = statistic + customer focus + ethic
 * August 22, 2023
 * Hadi worked with Dan but on different teams
 
 Dan has been an amazing thought leader and seems to have answer to any circumstances you throw at him! :D 
+
 It all started with me emailing him after his presentation in Dev Day, and to my surprise he responded, and we have been connecting ever since. From explaining about graph, and how graph structure is important to become knowledge scientist, to navigating through system thinking, XAI, and LLM - Dan is very adept at navigating changes, and seemingly know what's the next direction. Every time you connect to Dan, it feels like you just get plugged in to the latest and greatest in AI, and he is very focus on getting you to understand how this technology is applicable to your work. 
+
 I want to especially Thanks Dan for your help with growing Data Science Guild - from 500 emails to 1500 emails within one year. Dan is our first Tech Round Table speakers with XAI, and he has been recurring speakers. His willingness to share technology and knowledge are driving changes and thoughts in our industry!
+
 His last lecture is amazing! I really love the notion of knowledge scientist. Something that I would do my best to live up to his expectation! 
+
 Thank you again for being such an amazing leader and leading by example! We have a high standard to catch up now Dan!
+
 One step at a time!
 
----
-
 #### Arijit Sengupta
+
 * Founder and CEO at Aible. Former Executive Fellow at Harvard Business School.
 * August 21, 2023
 * Dan was Arijit’s client
@@ -172,23 +180,27 @@ Dan was easy to work with and had a positive attitude in all of our interactions
 ---
 
 #### Ryan Thayer
+
 * Senior Principal Engineer at Optum
 * August 20, 2023
 * Ryan worked with Dan but on different teams
 
 When it comes to emerging tech, I've seen Dan often leading by doing first & then bringing others along with him. When leading innovation at scale, Dan finds the perfect balance of training & empowering others while also ensuring responsible adoption without adding unnecessary bureaucracy that slows teams down without adding value.
+
 Dan's natural curiosity & hands-on technical skills combined with how much he values connecting with others leads to his impressive understanding of the very latest developments in a wide range of tech topics. I especially appreciate how much he values mentorship, helping so many others to achieve engineering excellence while also being more successful at leading innovating.
 
----
-
 #### Kristin Mertes
+
 * Program Development & Management | AI/ML | Leadership Development | Lean Startup Methodology
 * August 19, 2023
 * Dan was senior to Kristin but didn't manage Kristin directly
 
 In the realm of AI and machine learning, Dan is a true visionary and thought leader. His ability to foresee future trends and implications of emerging technologies is simply astonishing. I had the privilege of working closely with Dan as part of the OTU College of AI, and his contributions have been immeasurable.
+
 Dan's expertise as a subject matter expert for the OTU College of AI has been invaluable. His profound understanding of AI/ML technologies, coupled with his remarkable tech savviness, has been a driving force in helping shape our learning and development programs. His ability to take the most complicated technology and deliver it in a way where everyone can understand and learn is a true gift. With his guidance, our team was able to craft exceptional educational experiences that have empowered our technologists with cutting-edge AI knowledge.
+
 One of the most commendable traits of Dan is his exceptional collaboration skills. He understands the power of partnerships in achieving common goals and consistently advocates for building strong collaborations. His input and reviews of our programs have consistently demonstrated his commitment to excellence and his dedication to producing top-tier AI practitioners. Dan's unwavering engagement and passion for educating others on the areas of AI and ML are truly inspiring. Dan's leadership style is characterized by fostering a climate of empowerment and motivation. He values every individual's contribution, and ensures that credit is given where it's due. His ability to create an environment where people feel encouraged to participate and share their ideas is truly commendable and his dedication to the development of AI and its practitioners is unwavering. 
+
 His commitment to excellence, his collaborative spirit, and his ability to communicate and mentor effectively make him a standout figure in the field. It has been an honor to work with him, and I wholeheartedly recommend Dan as an outstanding leader, mentor, and collaborator in the realm of AI and machine learning. He is, without a doubt, an asset to any team or organization fortunate enough to have him.
 
 
@@ -394,7 +406,7 @@ Dan and I worked on multiple projects to bring Knowledge Graphs and various ML c
 
 #### Nora Smith
 
-* Business Operations Analyst- AI, ML, GPT, LLM in the healthcare industry space. A collaborator with white glove experience in business operations and project management.
+* Business Operations Analyst- AI, ML, GPT, LLM in the healthcare industry space
 * August 11, 2023
 * Nora worked with Dan on the same team
 
@@ -430,7 +442,10 @@ Dan has vast and multifaceted experience, but what he stands out in is his abili
 * August 11, 2023
 * Greg worked with Dan but on different teams
 
-I have had the privilege of working closely with Dan McCreary for several years, and I wholeheartedly recommend him as an expert in the field of AI / machine learning, knowledge graphs, and databases. Dan's vast knowledge and experience in these areas, particularly within the healthcare industry, make him an invaluable asset to any team or project. Dan's calm and collected demeanor, coupled with his technical and business insights, sets a positive tone in any professional setting. He consistently delivers thoughtful and insightful recommendations, and his ability to distill intricate technical details into clear and compelling explanations is truly remarkable. One of Dan's most impressive qualities is his dedication to collaboration and knowledge sharing. He played a pivotal role in our team's success with knowledge graphs and AI/ML implementations. His expertise in solution architectures and his analytical skills were instrumental in shaping effective strategies that drove results. His storytelling abilities helped us communicate our achievements to both technical and non-technical stakeholders. As a distinguished engineer, Dan's contributions go far beyond technical expertise. He actively contributes to a positive team culture, fostering an environment of learning and innovation. His mentoring and guidance have had a lasting impact on my own professional growth, as well as many of my colleagues. Dan is an exceptional professional with a proven track record of driving success in AI, machine learning, knowledge graphs, and database projects within the healthcare sector. His deep technical knowledge, combined with his remarkable communication skills, make him a standout colleague and a trusted expert in his field. I enthusiastically recommend Dan to any organization looking for a dedicated and accomplished individual to enhance their team and achieve outstanding results.
+I have had the privilege of working closely with Dan McCreary for several years, and I wholeheartedly recommend him as an expert in the field of AI / machine learning, knowledge graphs, and databases. Dan's vast knowledge and experience in these areas, particularly within the healthcare industry, make him an invaluable asset to any team or project. Dan's calm and collected demeanor, coupled with his technical and business insights, sets a positive tone in any professional setting. He consistently delivers thoughtful and insightful recommendations, and his ability to distill intricate technical details into clear and compelling explanations is truly remarkable. One of Dan's most impressive qualities is his dedication to collaboration and knowledge sharing. He played a pivotal role in our team's success with knowledge graphs and AI/ML implementations. His expertise in solution architectures and his analytical skills were instrumental in shaping effective strategies that drove results. His storytelling abilities helped us communicate our achievements to both technical and non-technical stakeholders.
+
+As a Distinguished Engineer, Dan's contributions go far beyond technical expertise. He actively contributes to a positive team culture, fostering an environment of learning and innovation. His mentoring and guidance have had a lasting impact on my own professional growth, as well as many of my colleagues. Dan is an exceptional professional with a proven track record of driving success in AI, machine learning, knowledge graphs, and database projects within the healthcare sector. His deep technical knowledge, combined with his remarkable communication skills, make him a standout colleague and a trusted expert in his field. I enthusiastically recommend Dan to any organization looking for a dedicated and accomplished individual to enhance their team and achieve outstanding results.
+
 #### Prassanna Venkatesh
 
 * AI Product @ UnitedHealth Group | IIM Bangalore
@@ -488,6 +503,7 @@ I had some interactions with Dan on a few initiatives at Advanced Technology Gro
 I had the privilege of working with Dan for about 9 months driving the initial stages of an enterprise knowledge graph. I found Dan invaluable in helping me move the project forward thanks to his advice, mentorship, and contagious enthusiasm about the power of knowledge graphs. His expertise ranges from big-picture architectural issues, to communicating business value, to technical issues of graph modeling, querying, and analytics. Personally, I learned a tremendous amount in a relatively small time that will translate to other graph projects and would welcome a chance to work with Dan again in the future.
 
 #### Kevin M Coonan, MD
+
 * Emergency Medicine Physician and Medical Informaticist
 * August 31, 2020
 * Kevin M was Dan’s client
@@ -577,6 +593,7 @@ Dan is exceptionally intelligent and great to work with. I could count on him to
 I had the privilege to work with Dan for 3 months. Dan has a extensive experience in applying data science technology to solve business problems in the health care. In my short experience with him I had learnt so much under his mentorship. Dan is a great leader to have on a team.
 
 #### Sanju Thomas
+
 * Software Craftsman
 * April 3, 2017
 * Dan was senior to Sanju but didn't manage Sanju directly
@@ -584,6 +601,7 @@ I had the privilege to work with Dan for 3 months. Dan has a extensive experienc
 Dan was my lead on a project that combined the need for many diverse skills. Dan's understanding of the software architecture in general and distributed computing, in particular, is commendable. He leads the effort of setting up a very complex multi-tier, a multi-vendor innovative product that provides document enrichment and information discovery over the REST in a very short time. I was always amazed to see his thorough understanding of document modeling, metadata management, content enrichment, and semantics. I hope I would get another opportunity to learn from Dan, the charismatic thought leader. I wish him all the very best in his future endeavors.
 
 #### Robert Szkutak
+
 * Customer Success Technical Architect (CSTA) at Confluent
 * March 31, 2017
 * Dan was senior to Robert but didn't manage Robert directly
@@ -621,6 +639,7 @@ In technology you rarely get a chance to work with a person that is as personabl
 * Alicia worked with Dan but on different teams
 
 I have relied on Dan as a subject matter expert on uses of NoSQL, MarkLogic, metadata, and other related topics, particularly in the healthcare & life sciences industries. He is not only extremely knowledgeable but also a delight to work with - always enthusiastic about his work, willing to share ideas, and very patient in explaining complex technical concepts so that others can understand.
+
 #### Rob Lawrence
 
 * Strategist at Microsoft
@@ -669,15 +688,20 @@ Dan is a first-class consultant and an all-round Good Guy. Our paths first cross
 
 Dan worked for me in the MarkLogic healthcare team. Dan has a passion for helping our healthcare customers understand the benefits of MarkLogic. He went above and beyond the call of duty to not only build proof-of-concept applications for our customers, but to help everyone within MarkLogic understand the role of metadata management. I hope I can work with Dan again in the future.
 
-## Integrity Solutions
+## RN Solutions/Grant Solutions
 
-#### Craig Laurent
+Ann and I created one of the most complex froms processing sytems
+that I was aware of.  It took mainframe representations of forms and business rules and converted them into Orbeon XForms.  As of the summer of 2023 they were still using our system.  Naga was our main contact
+and we still keep in touch with him.  He used our CoderDojo
+courses to teach his local students Python.
 
-* Software Solution Provider
-* November 12, 2014
-* Dan was senior to Craig but didn't manage Craig directly
+#### Naga Nandivelugu, BE, MBA
 
-Dan is the rare person who is both a good Technologist and a good manager. I worked at a company where he was President, he took time out of his busy day to connect with me and provide me unique and effective training. Dan has very good architectural and design skills; and he continues to learn and improve.
+* Director of Technology @ Guidehouse | MBA, SAFe Agilist | Cloud Computing | AI/ML | Low code/No code | Generative AI
+* July 11, 2014
+* Naga worked with Dan on the same team
+
+Worked with Dan for almost 2 years, We spent many many long hours of discussion when we were building an application which is very dynamic in nature, His knowledge in xml technology helped us to build a framework for a very complicated bussiness need. He is a very good team player and very knowledgable person. Would like to work with him again.
 
 #### Fredrik Lidstrom
 
@@ -695,14 +719,6 @@ I worked with Dan for over a year on a project involving dynamically generated x
 
 I got opportunity to work with Dan at RN Solutions where he worked as Software Engineer. Dan's experience of more than 10 years in XML, XML Schema, XForms and XQuery is exhibited from his work. He has a strong logical, technical and analytical skills. He is a excellent mentor, great team player and he also exhibits strong leadership. He is always ready to help others people around him. I would be more than happy to work with him again.
 
-#### Naga Nandivelugu, BE, MBA
-
-* Director of Technology @ Guidehouse | MBA, SAFe Agilist | Cloud Computing | AI/ML | Low code/No code | Generative AI
-* July 11, 2014
-* Naga worked with Dan on the same team
-
-Worked with Dan for almost 2 years, We spent many many long hours of discussion when we were building an application which is very dynamic in nature, His knowledge in xml technology helped us to build a framework for a very complicated bussiness need. He is a very good team player and very knowledgable person. Would like to work with him again.
-
 #### Alex Hurtt
 
 * Sr. Enterprise Java Developer at Dovel Technologies
@@ -711,21 +727,36 @@ Worked with Dan for almost 2 years, We spent many many long hours of discussion 
 
 If you're looking for a NoSQL evangelist well versed in all things XML, XQuery, XForms, and X*, then Dan is your man. Also an excellent and patient mentor and instructor who really goes the extra mile to make sure that people "get it." His work is always well documented and his communication skills among the best I've encountered. He is able to communicate clearly and concisely at a level appropriate to the audience he is addressing be it business, management, or technical.
 
+## University of Richmond
+
+I helped the University of Richmond design and build
+XQuery training courses for content management systems.
+We did a lot of custom search systems for specific
+web content all built on eXist-db.  Although Eric Palmer
+was our main contact, I did a lot of great work with [Chris Kemp](https://www.linkedin.com/in/chris-kemp-28560b7/)
+
 #### Eric Palmer
 
 * Agile Practitioner, CSM, CSPO, CSP, TBR, Higher Ed
 * July 11, 2013
 * Eric was Dan’s client
 
-Dan and I have collaborated on projects at the University of Richmond and in the open source community for years. Dan is a NoSQL Database visionary. His Enterprise Architecture experience and thinking has helped me become a better Enterprise Architect. While Dan is a visionary he is also down to earth and a very effective trainer and technical mentor. Dan’s training approach helped my team go from novice to experienced xQuery developers quickly. I’m looking forward to a continued relationship with Dan and his staff.
+Dan and I have collaborated on projects at the University of Richmond and in the open source community for years. Dan is a NoSQL Database visionary. His Enterprise Architecture experience and thinking has helped me become a better Enterprise Architect. While Dan is a visionary he is also down to earth and a very effective trainer and technical mentor. Dan’s training approach helped my team go from novice to experienced XQuery developers quickly. I’m looking forward to a continued relationship with Dan and his staff.
 
-#### 🔑 Emilio Garcia
+## NueMeta
+
+Ann and I built custom workflow engines for processing XML representations of music license agreements for NueMenta.  My key contact
+there was [Nick Sincaglia](https://www.linkedin.com/in/nicolas-sincaglia-9623a8/).
+
+#### Emilio Garcia
 
 * Digital Operations | Security Analyst | Sec+ | (ISC)2 CC
 * December 12, 2012
-* 🔑 Emilio worked with Dan on the same team
+* Emilio worked with Dan on the same team
 
 Dan is very knowledgeable, a natural teacher and a published visionary. I worked with Dan on projects at NueMeta. Early on in the business model planning he was able to focus the team on solutions and capabilities of the technology that would solve the major pain points we had identified. I came away with more knowledge and understanding of many different technologies in all of my one on one interactions with him. I hope to work with Dan again in the near future.
+
+## Larson-Allen
 
 #### Nancy Kaplan
 
@@ -750,6 +781,7 @@ Dan is a clear thought leader with deep expertise on the future of system intero
 * John was Dan’s client
 
 Mr McCreary has the rare skill of combining technical expertise with incredible business and inter-personal interfacing skills. He has been always diligent in providing services for our company and invested in the cause of increasing productivity and simplifying business operations. We would not hesitate to hire Dan again and always maintain an open ear for his suggestions.
+
 #### David Wood
 
 * Executive, entrepreneur, and multi-disciplinary engineer
@@ -770,6 +802,22 @@ Dan benchmarked "information integrity assurance" best practices for an inter-re
 
 ## Thrivent
 
+#### Mark Skweres
+
+* Retired Formerly as the Enterprise Data Architect at University of Minnesota
+* August 12, 2008
+* Mark worked with Dan on the same team
+
+Dan is one of the most intelligent and enjoyable people I have worked with in the past 5 years. His depth of knowledge in data architecture is astounding, particularly in meta data, XML and business intelligence. He always brings a fresh enthusiasm to his work, and blends his experience with a broad understanding of industry standards and trends. While primarily a data architect, he is constantly looking for ways to apply new technologies, like Web Services or metadata registries, to his solutions. And he is an excellent teacher, capable of helping others understand new concepts and apply them effectively. It would be an honor to work with him again in the future.
+
+#### Matt Steele
+
+* SCADA Engineer at Consulting Engineers Group
+* July 25, 2008
+* Matt worked with Dan but on different teams
+
+Dan continues to be a great mentor and an excellent teacher. He continues to have a holistic understanding of our software needs, best practices, and industry trends. More importantly, he always frames things from a value and business perspective with metaphors which make the technology much easier to learn. He's very forward thinking in his software architecture and also his dedication to fostering understanding in us younger consultants. I've been lucky to learn from the best.
+
 #### David Wenell
 
 * Product Owner at Best Buy
@@ -779,6 +827,14 @@ Dan benchmarked "information integrity assurance" best practices for an inter-re
 I had the pleasure of working with Dan at Thrivent Financial on the PACE program. The original project I was to work on was put on hold and so I had the opportunity to work with Dan on a Metadata Registry he was creating with XForms and XQuery. I had not worked with those technologies before and he spent a lot of time with me training me. He was an extremely good mentor and very patient with me as I learned more. Dan's knowledge of metadata, xml, OLAP cubes, and services is extremely impressive. He is one of the most knowledgeable architects I've ever had the opportunity to work with in my career. I would highly recommend him! I hope I have the opportunity to work with him again in the future!
 
 ## Integrity Solutions
+
+#### Craig Laurent
+
+* Software Solution Provider
+* November 12, 2014
+* Dan was senior to Craig but didn't manage Craig directly
+
+Dan is the rare person who is both a good Technologist and a good manager. I worked at a company where he was President, he took time out of his busy day to connect with me and provide me unique and effective training. Dan has very good architectural and design skills; and he continues to learn and improve.
 
 #### Jack Nutting
 
@@ -830,21 +886,8 @@ Dan was a pleasure to work with from start to finish. His immediate and thorough
 
 Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
 
-#### Mark Skweres
 
-* Retired Formerly as the Enterprise Data Architect at University of Minnesota
-* August 12, 2008
-* Mark worked with Dan on the same team
-
-Dan is one of the most intelligent and enjoyable people I have worked with in the past 5 years. His depth of knowledge in data architecture is astounding, particularly in meta data, XML and business intelligence. He always brings a fresh enthusiasm to his work, and blends his experience with a broad understanding of industry standards and trends. While primarily a data architect, he is constantly looking for ways to apply new technologies, like Web Services or metadata registries, to his solutions. And he is an excellent teacher, capable of helping others understand new concepts and apply them effectively. It would be an honor to work with him again in the future.
-
-#### Matt Steele
-
-* SCADA Engineer at Consulting Engineers Group
-* July 25, 2008
-* Matt worked with Dan but on different teams
-
-Dan continues to be a great mentor and an excellent teacher. He continues to have a holistic understanding of our software needs, best practices, and industry trends. More importantly, he always frames things from a value and business perspective with metaphors which make the technology much easier to learn. He's very forward thinking in his software architecture and also his dedication to fostering understanding in us younger consultants. I've been lucky to learn from the best.
+## Boss Logic
 
 #### Mark Pelto
 
