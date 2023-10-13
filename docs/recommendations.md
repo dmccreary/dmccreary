@@ -62,7 +62,7 @@ Dan's accomplishments in AI and solution architecture are remarkable, and I whol
 Dan is one of those individuals whose presence accelerates thoughtful innovation and capacity building. Though I did not work with him on the same team, my observation of his leadership and contributions on enterprise-wide initiatives that we converged on, is quite impressive. More recently building the Generative AI Center of Excellence and summer programming for teaching and mentoring the next generation of STEM and CS leaders. His track record of excellence and trustworthiness is so long and evident in both internal and external accomplishments.
 I have gratitude and respect for all I have witnessed of Dan’s work. He is a treasure to any organization that could leverage deep expertise in AI and general innovation. I strongly recommend him!Dan is one of those individuals whose presence accelerates thoughtful innovation and capacity building. Though I did not work with him on the same team, my observation of his leadership and contributions on enterprise-wide initiatives that we converged on, is quite impressive. More recently building the Generative AI Center of Excellence and summer programming for teaching and mentoring the next generation of STEM and CS leaders. His track record of excellence and trustworthiness is so long and evident in both internal and external accomplishments. I have gratitude and respect for all I have witnessed of Dan’s work. He is a treasure to any organization that could leverage deep expertise in AI and general innovation. I strongly recommend him!
 
-### Casie Stupp 
+#### Casie Stupp 
 
 * Director of Business Development Director of Business Development 
 * September 13, 2023
@@ -828,6 +828,14 @@ I had the pleasure of working with Dan at Thrivent Financial on the PACE program
 
 ## Integrity Solutions
 
+#### Pete Clark
+
+* Director of Engineering at CrowdStrike
+* July 24, 2005
+* Pete reported directly to Dan
+
+At Integrity Solutions, Dan was a visionary, building the company from the group of 7 co-founders to over 70 people.
+
 #### Craig Laurent
 
 * Software Solution Provider
@@ -870,6 +878,25 @@ Dan has a greater capacity for sharing his vision and enthusiasm for technology 
 
 Dan left mighty big shoes to fill when I started at NeXT. The company he founded was a valuable partner for both NeXT and a company I later worked with, Gage. Dan has the gift of deep technical insight into issues. At a time when it seemed that quick-and-dirty, superficial "solutions" were the fashion, he was a steadfast proponent of quality design--solutions with integrity, to be true to the name of the company he founded.
 
+## Consulting
+
+### Minnesota Department of Revenue
+
+At the Minnesota Department of Revenue I worked with [Howard Dodd](https://www.linkedin.com/in/howard-dodd/) and [Jason Parker](https://www.linkedin.com/in/jasonparker/).  I designed XML Schemas and
+XForms for managing data exchanges and property taxation documents
+such as homestead claims.  I worked for almost a year on converting
+CRV documents from paper to online forms using XForms and eXist.
+This is where I also met [Alex Bleasdale](https://www.linkedin.com/in/alexbleasdale/) who later joined MarkLogic.
+
+#### Arun Batchu
+
+* Research VP | Software Engineering : AI, Technology, People, Practices
+* May 9, 2007
+* Arun worked with Dan on the same team
+
+Dan is one of the most influential persons in my professional career: teaching me the importance of semantics and meta-data, the power of declarative thinking and showing me the road ahead. Grounded in solid theory, Dan is a brilliant but pragmatic entrepreneur,architect,developer and teacher with bottomless empathy towards all people with an equally grand appetite for learning and change. It is both an honor and a pleasure to work with Dan. I would jump at any opportunity to work with or for him again.
+
+
 #### John Hibscher
 
 * Developer and Business Analyst
@@ -885,7 +912,6 @@ Dan was a pleasure to work with from start to finish. His immediate and thorough
 * Mark was Dan’s client
 
 Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
-
 
 ## Boss Logic
 
@@ -904,14 +930,6 @@ Dan's ability to analyse, recommend and implement systems for the legal departme
 * Dan was senior to Janice but didn't manage Janice directly
 
 Working with Dan at his company Integrity Solutions was one of the best experience throughout my career. Dan always made sure employees at his company were given everything needed to do their jobs along with a great working enviroment. Dan's knowledge, skills and integrity were one of the reasons the company was so successful. If ever given the opportunity to work with Dan again, I would take it in a heartbeat!
-
-#### Arun Batchu
-
-* Research VP | Software Engineering : AI, Technology, People, Practices
-* May 9, 2007
-* Arun worked with Dan on the same team
-
-Dan is one of the most influential persons in my professional career: teaching me the importance of semantics and meta-data, the power of declarative thinking and showing me the road ahead. Grounded in solid theory, Dan is a brilliant but pragmatic entrepreneur,architect,developer and teacher with bottomless empathy towards all people with an equally grand appetite for learning and change. It is both an honor and a pleasure to work with Dan. I would jump at any opportunity to work with or for him again.
 
 #### Gerhard Kessel
 
@@ -961,13 +979,6 @@ If you want to know what's next, watch Dan's moves. He has an uncanny way of kno
 
 Dan's calm and confident demeanor belied a highly technical sharply-focused mind. He excelled in solving complex problems for customers and met every challenge that one would expect in a startup with gusto and enthusiasm. All of the field sales engineers loved to work with Dan. We relied heavily on his creative ideas and inspirational training sessions.
 
-#### Pete Clark
-
-* Director of Engineering at CrowdStrike
-* July 24, 2005
-* Pete reported directly to Dan
-
-At Integrity Solutions, Dan was a visionary, building the company from the group of 7 co-founders to over 70 people.
 
 ## CriMNet
 
@@ -997,3 +1008,7 @@ Dan developed innovative XDoclet templates and ant scripts for a complex Compreh
 
 Dan was a great SME (subject matter expert) for me to consult about documentation issues. I was a tech writer in the ETA System V group, writing system administration docs, and he was always good for getting the information I needed. I value good knowledgeable sources when I find them. He was always one of the good ones.
 
+## Bell Labs
+
+[Howard Moscovitz](https://www.linkedin.com/in/howard-moscovitz-305815/)
+[Rob Tepper](https://www.linkedin.com/in/rob-tepper/)
