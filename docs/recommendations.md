@@ -826,58 +826,6 @@ Dan continues to be a great mentor and an excellent teacher. He continues to hav
 
 I had the pleasure of working with Dan at Thrivent Financial on the PACE program. The original project I was to work on was put on hold and so I had the opportunity to work with Dan on a Metadata Registry he was creating with XForms and XQuery. I had not worked with those technologies before and he spent a lot of time with me training me. He was an extremely good mentor and very patient with me as I learned more. Dan's knowledge of metadata, xml, OLAP cubes, and services is extremely impressive. He is one of the most knowledgeable architects I've ever had the opportunity to work with in my career. I would highly recommend him! I hope I have the opportunity to work with him again in the future!
 
-## Integrity Solutions
-
-#### Pete Clark
-
-* Director of Engineering at CrowdStrike
-* July 24, 2005
-* Pete reported directly to Dan
-
-At Integrity Solutions, Dan was a visionary, building the company from the group of 7 co-founders to over 70 people.
-
-#### Craig Laurent
-
-* Software Solution Provider
-* November 12, 2014
-* Dan was senior to Craig but didn't manage Craig directly
-
-Dan is the rare person who is both a good Technologist and a good manager. I worked at a company where he was President, he took time out of his busy day to connect with me and provide me unique and effective training. Dan has very good architectural and design skills; and he continues to learn and improve.
-
-#### Jack Nutting
-
-* CTO at Shortcut Sweden
-* January 13, 2009
-* Dan was senior to Jack but didn't manage Jack directly
-
-At Integrity Solutions, I worked among the best and brightest minds I've ever worked with, and Dan was integral in building that team. His broad knowledge base and clear technical vision gave the company a clear direction forward and served as a set of selection criteria for potential recruits during a period of major growth; During my 3 years there we went from under 10 people to approximately 50. Some of us used to joke that Dan would hire anybody who came into his office, but the flip-side of the joke was that Dan seemed to truly have a knack for pre-selecting people who would do a great job for the company; the slouches never made it to his office!
-
-#### Loren Cahlander
-
-* Digital Transformation, Data Architecture, Big data, NoSQL, Analytics & Cloud Computing
-* November 22, 2008
-* Dan was senior to Loren but didn't manage Loren directly
-
-Dan was always able to get the best out of the people who reported to him by his leadership skills. I hope to have opportunities to work with Dan in the future.
-
-#### Chris Kottom
-
-* CTO at Rewardful, author of The Minitest Cookbook, nights and weekends on HuddleUp.dev
-* November 10, 2008
-* Dan was senior to Chris but didn't manage Chris directly
-
-Dan has a greater capacity for sharing his vision and enthusiasm for technology than anyone I've ever known. It was his lecture before my object-oriented programming course in college that sealed the deal on my career in tech, and as my boss and mentor in my first job after college, he provided encouragement and direction as I first began exploring ways of solving technical problems. Any success I've had in my career can be attributed largely to the experiences I had working with him and the other outstandingly smart people at Integrity Solutions, and I'll always be grateful for that opportunity.
-
-## NeXT Computer
-
-#### Ralph Foy
-
-* Sr Manager Software Engineering
-* October 29, 2008
-* Ralph worked with Dan but they were at different companies
-
-Dan left mighty big shoes to fill when I started at NeXT. The company he founded was a valuable partner for both NeXT and a company I later worked with, Gage. Dan has the gift of deep technical insight into issues. At a time when it seemed that quick-and-dirty, superficial "solutions" were the fashion, he was a steadfast proponent of quality design--solutions with integrity, to be true to the name of the company he founded.
-
 ## Consulting
 
 ### Minnesota Department of Revenue
@@ -913,24 +861,6 @@ Dan was a pleasure to work with from start to finish. His immediate and thorough
 
 Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
 
-## Boss Logic
-
-#### Mark Pelto
-
-* Consulting at MLP Cresthaven, Inc.
-* August 11, 2007
-* Mark worked with Dan but they were at different companies
-
-Dan's ability to analyse, recommend and implement systems for the legal departments currrent and future needs at NSP made for a successful legal information system implementation and architechture that was later ported to other systems/database architecture as the company expanded and upgraded systems through the natural life cycles over ten years.
-
-#### Janice Bethke
-
-* Retired
-* June 13, 2007
-* Dan was senior to Janice but didn't manage Janice directly
-
-Working with Dan at his company Integrity Solutions was one of the best experience throughout my career. Dan always made sure employees at his company were given everything needed to do their jobs along with a great working enviroment. Dan's knowledge, skills and integrity were one of the reasons the company was so successful. If ever given the opportunity to work with Dan again, I would take it in a heartbeat!
-
 #### Gerhard Kessel
 
 * Cyber Security Architect ♦ Operations Technology Security Engineer ♦ Industrial Control Systems ♦ Infrastructure Security SME ► CISSP, ITIL, MCSE, VCP, CCNA ► Risk & Threat Management, Audit & Compliance
@@ -945,13 +875,7 @@ Working with Dan at his company Integrity Solutions was one of the best experien
 
 Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
 
-#### Gregor Bailar
 
-* Innovator, Advisor, Technology Executive, Philanthropist
-* January 25, 2007
-* Gregor worked with Dan on the same team
-
-Dan is a deep technical expert who can speak English while playing Mozart. He was a sound partner who always helped out and whose work you could rely on to exceed your expectations. I hope to work with Dan again someday.
 
 #### Par Jason Engle
 
@@ -961,8 +885,6 @@ Dan is a deep technical expert who can speak English while playing Mozart. He wa
 
 Dan's influence on our work on the Tri-State Longitudinal Data Systems project has been massive. To call him a visionary is only part of the story. He is, of course. His energy is infectious, his reasoning and business case is clear, and he can back it up with code.
 
-
-
 #### Max Roesler
 
 * Principal Consultant - Enterprise Transformation
@@ -971,16 +893,7 @@ Dan's influence on our work on the Tri-State Longitudinal Data Systems project h
 
 If you want to know what's next, watch Dan's moves. He has an uncanny way of knowing what the next big thing is. Object oriented development, meta-data... By the time you realize you need it, he's already an expert and published thought leader in it.
 
-#### Norman Furlong
-
-* VP of Software Engineering | Director, Software Engineering | Chief Technical Officer
-* March 13, 2006
-* Norman worked with Dan on the same team
-
-Dan's calm and confident demeanor belied a highly technical sharply-focused mind. He excelled in solving complex problems for customers and met every challenge that one would expect in a startup with gusto and enthusiasm. All of the field sales engineers loved to work with Dan. We relied heavily on his creative ideas and inspirational training sessions.
-
-
-## CriMNet
+### CriMNet
 
 #### Thomas Kooy
 
@@ -998,7 +911,113 @@ Dan continues to deliver excellent education and technical services in all evolv
 
 Dan developed innovative XDoclet templates and ant scripts for a complex Comprehensive Incident Based Reporting System data model including sample data for data dictionary reports and test scripts. His knowledge of semantic concepts and tools were an invaluable asset. His training materials allowed us to quickly bring new hires and vendors up to speed on the complex environment and subject matter.
 
+## Integrity Solutions
+
+I started Integrity Solutions because I wanted to continue to build
+advanced tools for managing object-relational databases interfaces.  My cofounders included [Randy Marchessault](), [Pete Clark](), [Mark Mendel](), [Tim Dawson]() and [Steve Johnson]().
+
+## Integrity Solutions
+
+#### Pete Clark
+
+* Director of Engineering at CrowdStrike
+* July 24, 2005
+* Pete reported directly to Dan
+
+At Integrity Solutions, Dan was a visionary, building the company from the group of 7 co-founders to over 70 people.
+
+
+#### Janice Bethke
+
+* Retired
+* June 13, 2007
+* Dan was senior to Janice but didn't manage Janice directly
+
+Working with Dan at his company Integrity Solutions was one of the best experience throughout my career. Dan always made sure employees at his company were given everything needed to do their jobs along with a great working enviroment. Dan's knowledge, skills and integrity were one of the reasons the company was so successful. If ever given the opportunity to work with Dan again, I would take it in a heartbeat!
+
+#### Craig Laurent
+
+* Software Solution Provider
+* November 12, 2014
+* Dan was senior to Craig but didn't manage Craig directly
+
+Dan is the rare person who is both a good Technologist and a good manager. I worked at a company where he was President, he took time out of his busy day to connect with me and provide me unique and effective training. Dan has very good architectural and design skills; and he continues to learn and improve.
+
+#### Jack Nutting
+
+* CTO at Shortcut Sweden
+* January 13, 2009
+* Dan was senior to Jack but didn't manage Jack directly
+
+At Integrity Solutions, I worked among the best and brightest minds I've ever worked with, and Dan was integral in building that team. His broad knowledge base and clear technical vision gave the company a clear direction forward and served as a set of selection criteria for potential recruits during a period of major growth; During my 3 years there we went from under 10 people to approximately 50. Some of us used to joke that Dan would hire anybody who came into his office, but the flip-side of the joke was that Dan seemed to truly have a knack for pre-selecting people who would do a great job for the company; the slouches never made it to his office!
+
+#### Loren Cahlander
+
+* Digital Transformation, Data Architecture, Big data, NoSQL, Analytics & Cloud Computing
+* November 22, 2008
+* Dan was senior to Loren but didn't manage Loren directly
+
+Dan was always able to get the best out of the people who reported to him by his leadership skills. I hope to have opportunities to work with Dan in the future.
+
+
+#### Chris Kottom
+
+* CTO at Rewardful, author of The Minitest Cookbook, nights and weekends on HuddleUp.dev
+* November 10, 2008
+* Dan was senior to Chris but didn't manage Chris directly
+
+Dan has a greater capacity for sharing his vision and enthusiasm for technology than anyone I've ever known. It was his lecture before my object-oriented programming course in college that sealed the deal on my career in tech, and as my boss and mentor in my first job after college, he provided encouragement and direction as I first began exploring ways of solving technical problems. Any success I've had in my career can be attributed largely to the experiences I had working with him and the other outstandingly smart people at Integrity Solutions, and I'll always be grateful for that opportunity.
+
+## Boss Logic
+
+I left NeXT to take a "leave of absense" to lead one of their
+key software developers.  I worked with [Phil Town](https://www.linkedin.com/in/philtown/) and got my first tast of running a
+small startup company.  I worked with Mark Pelto when he
+managed the NeXT computers for the NSP Legal Department.
+
+#### Mark Pelto
+
+* Consulting at MLP Cresthaven, Inc.
+* August 11, 2007
+* Mark worked with Dan but they were at different companies
+
+Dan's ability to analyse, recommend and implement systems for the legal departments currrent and future needs at NSP made for a successful legal information system implementation and architechture that was later ported to other systems/database architecture as the company expanded and upgraded systems through the natural life cycles over ten years.
+
+## NeXT Computer
+
+I worked with Steve Jobs at NeXT computer for almost two years.
+I learned a lot from Steve, both how to be a good leader
+and how not to be a bad manager.
+
+#### Gregor Bailar
+
+* Innovator, Advisor, Technology Executive, Philanthropist
+* January 25, 2007
+* Gregor worked with Dan on the same team
+
+Dan is a deep technical expert who can speak English while playing Mozart. He was a sound partner who always helped out and whose work you could rely on to exceed your expectations. I hope to work with Dan again someday.
+
+#### Norman Furlong
+
+* VP of Software Engineering | Director, Software Engineering | Chief Technical Officer
+* March 13, 2006
+* Norman worked with Dan on the same team
+
+Dan's calm and confident demeanor belied a highly technical sharply-focused mind. He excelled in solving complex problems for customers and met every challenge that one would expect in a startup with gusto and enthusiasm. All of the field sales engineers loved to work with Dan. We relied heavily on his creative ideas and inspirational training sessions.
+
+#### Ralph Foy
+
+* Sr Manager Software Engineering
+* October 29, 2008
+* Ralph worked with Dan but they were at different companies
+
+Dan left mighty big shoes to fill when I started at NeXT. The company he founded was a valuable partner for both NeXT and a company I later worked with, Gage. Dan has the gift of deep technical insight into issues. At a time when it seemed that quick-and-dirty, superficial "solutions" were the fashion, he was a steadfast proponent of quality design--solutions with integrity, to be true to the name of the company he founded.
+
 ## ETA Systems
+
+I left Bell Labs to get more experience managing people.  When I was just 26 I was managing a team of 14 people on the ETA Software Engineering Tools team.  We developed tools to make our developers
+more productive.  I also help run an Apollo network and then
+moved to port Unix System V to a 64-bit architecture.
 
 #### Roseanne Sullivan
 
