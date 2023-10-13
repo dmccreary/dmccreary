@@ -29,7 +29,7 @@ I should have been so lucky to have worked with Dan. His deep expertise in a ran
 
 * Distinguished Engineer @ UnitedHealth Group
 * September 22, 2023
-* Russ worked with Dan but on different teamsSeptember 22, 2023, Russ worked with Dan but on different teams
+* Russ worked with Dan but on different teams
 
 I was fortunate to work with Dan during the past four years on emerging graph and AI technologies at UHG. Dan is a selfless person who is dedicated to helping people around him be better at their craft and understanding and applying technology to business problems.
 
@@ -74,7 +74,7 @@ I had the privilege to work with Dan on a learning and development program aroun
 
 * Head of Product Engineering | Building High-Performing Teams | Mentor | Early Career and Diversity Program Advocate
 * September 10, 2023
-* Rama worked with Dan on the same teamSeptember 10, 2023, Rama worked with Dan on the same team
+* Rama worked with Dan on the same team
 
 I have had the pleasure of working with Dan at Optum. Dan brings with him passion, innovation, advice and strategic insight that allows businesses to better address their challenges via AI, ML and tools around it. Dan always looks for ways to help improve early careers students with knowledge in AI and he is engaged and builds solid relationships with his clients and business partners. I would recommend Dan as he has great work ethics, and is dedicated to his role, and believes in a positive and ethical work environment.I have had the pleasure of working with Dan at Optum. Dan brings with him passion, innovation, advice and strategic insight that allows businesses to better address their challenges via AI, ML and tools around it. Dan always looks for ways to help improve early careers students with knowledge in AI and he is engaged and builds solid relationships with his clients and business partners. I would recommend Dan as he has great work ethics, and is dedicated to his role, and believes in a positive and ethical work environment.
 
