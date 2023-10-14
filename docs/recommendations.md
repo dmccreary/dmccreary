@@ -745,26 +745,15 @@ Dan and I have collaborated on projects at the University of Richmond and in the
 
 ## NueMeta
 
-Ann and I built custom workflow engines for processing XML representations of music license agreements for NueMenta.  My key contact
-there was [Nick Sincaglia](https://www.linkedin.com/in/nicolas-sincaglia-9623a8/).
+Ann and I built custom workflow engines for processing XML representations of music license agreements for NueMenta on eXist-db.  Our key contact there was [Nick Sincaglia](https://www.linkedin.com/in/nicolas-sincaglia-9623a8/).
 
 #### Emilio Garcia
 
 * Digital Operations | Security Analyst | Sec+ | (ISC)2 CC
 * December 12, 2012
-* Emilio worked with Dan on the same team
+* Emilio worked with Dan on the same team at NueMeta
 
 Dan is very knowledgeable, a natural teacher and a published visionary. I worked with Dan on projects at NueMeta. Early on in the business model planning he was able to focus the team on solutions and capabilities of the technology that would solve the major pain points we had identified. I came away with more knowledge and understanding of many different technologies in all of my one on one interactions with him. I hope to work with Dan again in the near future.
-
-## Larson-Allen
-
-#### Nancy Kaplan
-
-* Director at CliftonLarsonAllen LLP
-* October 12, 2011
-* Nancy worked with Dan on the same team
-
-Dan has the ability to take complex technology concepts and explain them in a way that makes it easy for everyone to understand.
 
 #### Kevin M Coonan, MD
 
@@ -806,7 +795,7 @@ Dan benchmarked "information integrity assurance" best practices for an inter-re
 
 * Retired Formerly as the Enterprise Data Architect at University of Minnesota
 * August 12, 2008
-* Mark worked with Dan on the same team
+* Mark worked with Dan on the same team at Thrivant
 
 Dan is one of the most intelligent and enjoyable people I have worked with in the past 5 years. His depth of knowledge in data architecture is astounding, particularly in meta data, XML and business intelligence. He always brings a fresh enthusiasm to his work, and blends his experience with a broad understanding of industry standards and trends. While primarily a data architect, he is constantly looking for ways to apply new technologies, like Web Services or metadata registries, to his solutions. And he is an excellent teacher, capable of helping others understand new concepts and apply them effectively. It would be an honor to work with him again in the future.
 
@@ -814,7 +803,7 @@ Dan is one of the most intelligent and enjoyable people I have worked with in th
 
 * SCADA Engineer at Consulting Engineers Group
 * July 25, 2008
-* Matt worked with Dan but on different teams
+* Matt worked with Dan but on different teams at Thrivant
 
 Dan continues to be a great mentor and an excellent teacher. He continues to have a holistic understanding of our software needs, best practices, and industry trends. More importantly, he always frames things from a value and business perspective with metaphors which make the technology much easier to learn. He's very forward thinking in his software architecture and also his dedication to fostering understanding in us younger consultants. I've been lucky to learn from the best.
 
@@ -826,7 +815,23 @@ Dan continues to be a great mentor and an excellent teacher. He continues to hav
 
 I had the pleasure of working with Dan at Thrivent Financial on the PACE program. The original project I was to work on was put on hold and so I had the opportunity to work with Dan on a Metadata Registry he was creating with XForms and XQuery. I had not worked with those technologies before and he spent a lot of time with me training me. He was an extremely good mentor and very patient with me as I learned more. Dan's knowledge of metadata, xml, OLAP cubes, and services is extremely impressive. He is one of the most knowledgeable architects I've ever had the opportunity to work with in my career. I would highly recommend him! I hope I have the opportunity to work with him again in the future!
 
-## Consulting
+Dan's breadth and depth of knowledge around Business Intelligence Data Structures and Systems is impressive. He is well studied in this area and welcomes the opportunity to teach others. Dan did a great job of listening to the business needs and addressing them with creative architectural solutions. He was a joy to work with!
+
+#### Marie Brenden
+
+* September 22, 2008
+
+I had the pleasure of working with Dan at Thrivent Financial on the PACE program. The original project I was to work on was put on hold and so I had the opportunity to work with Dan on a Metadata Registry he was creating with XForms and XQuery. I had not worked with those technologies before and he spent a lot of time with me training me. He was an extremely good mentor and very patient with me as I learned more.
+
+Dan's knowledge of metadata, XML, OLAP cubes, and services is extremely impressive. He is one of the most knowledgeable architects I've ever had the opportunity to work with in my career. I would highly recommend him! I hope I have the opportunity to work with him again in the future!
+
+#### Mark Coleman
+
+* Sales Planning & Performance Management Leader
+* September 22, 2008
+* Mark was Dan’s client at Thrivant
+
+Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
 
 ### Minnesota Department of Revenue
 
@@ -844,6 +849,13 @@ This is where I also met [Alex Bleasdale](https://www.linkedin.com/in/alexbleasd
 
 Dan is one of the most influential persons in my professional career: teaching me the importance of semantics and meta-data, the power of declarative thinking and showing me the road ahead. Grounded in solid theory, Dan is a brilliant but pragmatic entrepreneur,architect,developer and teacher with bottomless empathy towards all people with an equally grand appetite for learning and change. It is both an honor and a pleasure to work with Dan. I would jump at any opportunity to work with or for him again.
 
+#### Minnesota Department of Education
+
+#### John Paulson
+
+* September 20, 2008
+
+Dan is a versatile and top quality information specialist. His work for me at the department positioned our agency to develop new data models that permit enhanced services and data analysis not previously possible. He understanding of industry trends and emerging technologies will be especially important to organizations intending to exploit market opportunites based on technology leadership. I highly recommend Dan for advanced information analysis positions. His leadership style is flexible and his communications skills are outstanding.
 
 #### John Hibscher
 
@@ -853,13 +865,6 @@ Dan is one of the most influential persons in my professional career: teaching m
 
 Dan was a pleasure to work with from start to finish. His immediate and thorough analysis of our requirement showed his breadth of expertise in the subject. When Dan arrived on site to work through the implementation, he patiently explained all the aspects of the project and synchronized to our knowledge level in order to gain maximum efficiency in completing the project together.
 
-#### Mark Coleman
-
-* Sales Planning & Performance Management Leader
-* September 22, 2008
-* Mark was Dan’s client
-
-Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
 
 #### Gerhard Kessel
 
@@ -874,8 +879,6 @@ Dan is an expert when it comes to helping an organization get a grip on all of i
 * Dan was senior to Mitch but didn't manage Mitch directly
 
 Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
-
-
 
 #### Par Jason Engle
 
@@ -911,12 +914,47 @@ Dan continues to deliver excellent education and technical services in all evolv
 
 Dan developed innovative XDoclet templates and ant scripts for a complex Comprehensive Incident Based Reporting System data model including sample data for data dictionary reports and test scripts. His knowledge of semantic concepts and tools were an invaluable asset. His training materials allowed us to quickly bring new hires and vendors up to speed on the complex environment and subject matter.
 
+## Netsource America
+
+#### Gregg Rudolph
+
+* President
+* NetSource America
+
+Dan is a strategic thinker with a strong understanding of e-Business fundamentals. He contributed greatly to NetSource America's ability to conceptualize an integrated web portal that will allow our customers to manage their network from a central web-based dashboard.
+
+## LarsonAllen
+
+#### Diane Murray
+
+* Minnesota Specialty Physicians
+
+One of Dan's greatest strengths is his ability to translate complex technical issues into understandable terms for the average person.
+
+#### David F. Calof
+
+* Principal In-Charge
+* LarsonAllen Technology Sector Industry Group
+
+Through the years Dan has been my first choice of the two or three people I regularly turn to for expertise in understanding and integrating technology opportunities with business needs. Dan has an unequalled perspective of strategic technology development in an ever changing and challenging environment, and can contribute a great deal of value - particularly in working closely with members of upper management.
+
+#### Nancy Kaplan
+
+* Sr. Project Manager, LarsonAllen
+* October 12, 2011
+
+Dan has the ability to take complex technology concepts and explain them in a way that makes it easy for everyone to understand.
+
+#### Lyne Noella
+
+* Chief Marketing Officer, LarsonAllen
+
+Dan's grasp of management, marketing and technology issues smoothes the entire process of building a crackerjack company. Dan provided leadership, communication and services that enabled the LarsonAllen marketing group to work effectively with the internal technology group to achieve the desired effect.
+
 ## Integrity Solutions
 
 I started Integrity Solutions because I wanted to continue to build
 advanced tools for managing object-relational databases interfaces.  My cofounders included [Randy Marchessault](), [Pete Clark](), [Mark Mendel](), [Tim Dawson]() and [Steve Johnson]().
-
-## Integrity Solutions
 
 #### Pete Clark
 
@@ -926,6 +964,12 @@ advanced tools for managing object-relational databases interfaces.  My cofounde
 
 At Integrity Solutions, Dan was a visionary, building the company from the group of 7 co-founders to over 70 people.
 
+#### Steve Kenny
+
+* August 16, 2008
+* Pete reported directly to Dan
+
+Dan was the guiding force behind what retrospectively was a technically totally unique and trend-setting consultancy. His infectious deep belief in the merit of Object-Orientation as the basis for providing main-stream, mission-critical business solutions better and faster than any other organization around at the time was key in helping us establish a real foot-hold in the Twin Cities. He combined solid technical roots with a real ability to communicate and persuade. Many of today's common-place technologies, development practices, and team organizational methodologies were a natural part of his future-looking, Innovative, and home-brewed skill set.
 
 #### Janice Bethke
 
@@ -959,7 +1003,6 @@ At Integrity Solutions, I worked among the best and brightest minds I've ever wo
 
 Dan was always able to get the best out of the people who reported to him by his leadership skills. I hope to have opportunities to work with Dan in the future.
 
-
 #### Chris Kottom
 
 * CTO at Rewardful, author of The Minitest Cookbook, nights and weekends on HuddleUp.dev
@@ -967,6 +1010,14 @@ Dan was always able to get the best out of the people who reported to him by his
 * Dan was senior to Chris but didn't manage Chris directly
 
 Dan has a greater capacity for sharing his vision and enthusiasm for technology than anyone I've ever known. It was his lecture before my object-oriented programming course in college that sealed the deal on my career in tech, and as my boss and mentor in my first job after college, he provided encouragement and direction as I first began exploring ways of solving technical problems. Any success I've had in my career can be attributed largely to the experiences I had working with him and the other outstandingly smart people at Integrity Solutions, and I'll always be grateful for that opportunity.
+
+#### Mitch Berg
+
+* Technical Writer and UX Design
+* February 7, 2007
+
+Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
+
 
 ## Boss Logic
 
@@ -1027,7 +1078,42 @@ moved to port Unix System V to a 64-bit architecture.
 
 Dan was a great SME (subject matter expert) for me to consult about documentation issues. I was a tech writer in the ETA System V group, writing system administration docs, and he was always good for getting the information I needed. I value good knowledgeable sources when I find them. He was always one of the good ones.
 
+#### Jason Taylor
+
+* September 1, 2008
+
+Dan was an outstanding member of the Thrivent architecture team, focused on the re-alignment of a project to match the businesses needs. He showed superior vision as it pertained to the organization and communication of information to our users. With a great amount of patience, Dan educated, and informed personnel across multiple layers of our organization, the benefits of an architecture driven by simple processes, and clear metadata.
+
+#### Matt Steele
+
+July 25, 2008
+
+Dan continues to be a great mentor and an excellent teacher. He continues to have a holistic understanding of our software needs, best practices, and industry trends. More importantly, he always frames things from a value and business perspective with metaphors which make the technology much easier to learn. He's very forward thinking in his software architecture and also his dedication to fostering understanding in us younger consultants. I've been lucky to learn from the best.
+
 ## Bell Labs
 
-[Howard Moscovitz](https://www.linkedin.com/in/howard-moscovitz-305815/)
-[Rob Tepper](https://www.linkedin.com/in/rob-tepper/)
+* [Howard Moscovitz](https://www.linkedin.com/in/howard-moscovitz-305815/)
+* [Rob Tepper](https://www.linkedin.com/in/rob-tepper/)
+
+## University of Minnesota
+
+* Bernd Hofflinger
+* Mike Chaplin
+* Jim Mcgee
+
+## Carleton College
+
+#### Doug Walker
+
+* August 31, 2007
+
+Dan inspires people. When we were physics majors together in college, he inspired the whole campus to adopt Ultimate (Frisbee), for which he is remembered to this day. Over the years, his bold career moves into new companies and emerging technologies have been an inspiration to me in my own career. A conversation with Dan invariably leaves you feeling your eyes have been opened to something new, exciting, and promising.
+
+#### A. Chase Turner
+* March 10, 2004
+
+Excellent visionary and technical skills.
+
+
+
+
