@@ -10,11 +10,16 @@ I am looking for a well-funded and rapidly growing company with products that ar
 
 ### About Me
 
-I am a seasoned **Solution Architect** with a profound background in **Knowledge Representation for AI**. I have extensive experience in building the world’s largest **Enterprise Knowledge Graphs** for integrated member, customer, provider and patient records. I am passionate about helping organizations create precise, scalable models above tens of billions of vertices. My personal mission is to assist individuals and organizations in performing objective solution architecture analysis through the art of **storytelling**.  I have a unique skill.  I can **visualize how data moves** through hardware and networks down to the chip level and up through databases and up the application stacks.  This visual thinking skill allows me to quickly understand the fitness of knowledge representations to business problems.
+I am a seasoned **Solution Architect** with a profound background in **Knowledge Representation for AI**. I have extensive experience in building the world’s largest **Enterprise Knowledge Graphs** for integrated member, customer, provider and patient records. I am passionate about helping organizations create precise, scalable models above tens of billions of vertices. My personal mission is to assist individuals and organizations in performing objective solution architecture analysis through the art of **storytelling**.
+
+I have a unique skill.  I can **visualize how data moves** through hardware, through networks, through databases, and through applications. I can see data movement from the chip level all the way through application stacks.  This visual thinking skill allows me to quickly understand the fitness of knowledge representations to business problems.
+The ability to see entire systems at work give me a unique perspective
+on problem solving.
 
 ### Experience
 
 - AI and Machine Learning
+- Generative AI
 - Databases and NoSQL Technologies (Book Author)
 - Metadata and Semantics
 - Natural Language Processing (NLP)
