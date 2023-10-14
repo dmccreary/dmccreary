@@ -54,4 +54,4 @@ I have been a keynote speaker at several prestigious technology conferences, spr
 
 - **LinkedIn:** [https://www.linkedin.com/in/danmccreary/](https://www.linkedin.com/in/danmccreary/)
 
-*Last Updated: August 2023*
+*Last Updated: October 2023*
