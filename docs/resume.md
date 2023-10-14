@@ -18,10 +18,13 @@ on problem solving.
 
 ### Experience
 
+- Graph Database
 - AI and Machine Learning
-- Generative AI
+- Generative AI and Large-Language Models
 - Databases and NoSQL Technologies (Book Author)
 - Metadata and Semantics
+- NoSQL Architecture Tradeoffs Analysis Methods
+- Taxonomies and Ontologies
 - Natural Language Processing (NLP)
 - AI Hardware and Graph Accelerator Hardware
 - Scale-out graph algorithms
