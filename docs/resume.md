@@ -41,12 +41,17 @@ I have been a keynote speaker at several prestigious technology conferences, spr
 
 ### Education
 
-**BA** - Carleton College - Physics and Computer Science
-**MSEE** - University of Minnesota
-**MBA** - University of St. Thomas - 33 of 36 credits done (a work in progress)
+* **High School** - Washburn High School, Minneapolis, MN
+* **BA** - Carleton College - Physics and Computer Science, Northfield MN
+* **MSEE** - University of Minnesota
+* **MBA** - University of St. Thomas - 33 of 36 credits done (a work in progress)
+
+### Other
+
+- **Blog:** [https://dmccreary.medium.com/](https://dmccreary.medium.com/)
 
 ### Contact Information
+
 - **LinkedIn:** [https://www.linkedin.com/in/danmccreary/](https://www.linkedin.com/in/danmccreary/)
-- **Blog:** [https://dmccreary.medium.com/](https://dmccreary.medium.com/)
 
 *Last Updated: August 2023*

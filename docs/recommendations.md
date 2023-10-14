@@ -648,7 +648,7 @@ I have relied on Dan as a subject matter expert on uses of NoSQL, MarkLogic, met
 
 * Strategist at Microsoft
 * March 31, 2017
-* Rob worked with Dan on the same team
+* Rob worked with Dan on the same team at MarkLogic
 
 I worked with Dan in the healthcare vertical at MarkLogic. He has made the full round-trip from committed relational/SQL developer to enlightened post-relational/NoSQL advocate. He understands the value and the power, and is great at explaining both to clients and partners.
 
@@ -795,7 +795,7 @@ Dan benchmarked "information integrity assurance" best practices for an inter-re
 
 ## Surescripts
 
-I wrote a library of XSLT data transformation that converted prescriptions to and from a standard canonical format.  I also
+I wrote a library of XSLT data transformation that converted XML prescriptions to and from a standard canonical format.  I also
 wrote a test harness in eXist-db.  Mike told me many years later
 that the tansforms had run over 3 billion times without any
 signifant problems.
