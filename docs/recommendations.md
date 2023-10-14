@@ -793,6 +793,17 @@ Dan has consistently impressed me with his ability to dig deeply into new areas 
 
 Dan benchmarked "information integrity assurance" best practices for an inter-regional network prototype. Dan worked with Dr. Bill Estrem at University of St. Thomas was a "future thought leadership" learning mentor.  I collaboratied with Dan to help transform a knowledge management learning organization was a "social capital reinvesting" bonus.
 
+## Surescripts
+
+I wrote a library of XSLT data transformation that converted prescriptions to and from a standard canonical format.  I also
+wrote a test harness in eXist-db.  Mike told me many years later
+that the tansforms had run over 3 billion times without any
+signifant problems.
+
+* [Pete Palmer](https://www.linkedin.com/in/pete-palmer-94560/)
+* [Mike Rosenthal](https://www.linkedin.com/in/mike-rosenthal-9340a97/)
+* [Keith Willard](https://www.linkedin.com/in/keith-willard-1556401/)
+
 ## Thrivent
 
 #### Mark Skweres
@@ -837,7 +848,7 @@ Dan's knowledge of metadata, XML, OLAP cubes, and services is extremely impressi
 
 Dan is an expert when it comes to helping an organization get a grip on all of its complicated bits of data. He is very personable and has a teachable point of view drawn upon years of experience. If I ever have a large project requiring strong leadership to bring order to data - Dan
 
-### Minnesota Department of Revenue
+## Minnesota Department of Revenue
 
 At the Minnesota Department of Revenue I worked with [Howard Dodd](https://www.linkedin.com/in/howard-dodd/) and [Jason Parker](https://www.linkedin.com/in/jasonparker/).  I designed XML Schemas and
 XForms for managing data exchanges and property taxation documents
@@ -853,7 +864,7 @@ This is where I also met [Alex Bleasdale](https://www.linkedin.com/in/alexbleasd
 
 Dan is one of the most influential persons in my professional career: teaching me the importance of semantics and meta-data, the power of declarative thinking and showing me the road ahead. Grounded in solid theory, Dan is a brilliant but pragmatic entrepreneur,architect,developer and teacher with bottomless empathy towards all people with an equally grand appetite for learning and change. It is both an honor and a pleasure to work with Dan. I would jump at any opportunity to work with or for him again.
 
-#### Minnesota Department of Education
+## Minnesota Department of Education
 
 #### John Paulson
 
@@ -861,20 +872,19 @@ Dan is one of the most influential persons in my professional career: teaching m
 
 Dan is a versatile and top quality information specialist. His work for me at the department positioned our agency to develop new data models that permit enhanced services and data analysis not previously possible. He understanding of industry trends and emerging technologies will be especially important to organizations intending to exploit market opportunites based on technology leadership. I highly recommend Dan for advanced information analysis positions. His leadership style is flexible and his communications skills are outstanding.
 
+## Mindware
+
 #### John Hibscher
 
 * Developer and Business Analyst
 * October 2, 2008
 * John was Dan’s client
 
-Dan was a pleasure to work with from start to finish. His immediate and thorough analysis of our requirement showed his breadth of expertise in the subject. When Dan arrived on site to work through the implementation, he patiently explained all the aspects of the project and synchronized to our knowledge level in order to gain maximum efficiency in completing the project together.
+Dan was a pleasure to work with from start to finish. His immediate and thorough analysis of our requirement showed his breadth of expertise in the subject.
 
+When Dan arrived on site to work through the implementation, he patiently explained all the aspects of the project and synchronized to our knowledge level in order to gain maximum efficiency in completing the project together.
 
-#### Gerhard Kessel
-
-* Cyber Security Architect ♦ Operations Technology Security Engineer ♦ Industrial Control Systems ♦ Infrastructure Security SME ► CISSP, ITIL, MCSE, VCP, CCNA ► Risk & Threat Management, Audit & Compliance
-* March 15, 2007
-* Gerhard was Dan’s client
+Dan has the rare skill of combining technical expertise with incredible business and inter-personal interfacing skills. He has been always diligent in providing services for our company and invested in the cause of increasing productivity and simplifying business operations. We would not hesitate to hire Dan again and always maintain an open ear for his suggestions.
 
 #### Mitch Berg
 
@@ -883,14 +893,6 @@ Dan was a pleasure to work with from start to finish. His immediate and thorough
 * Dan was senior to Mitch but didn't manage Mitch directly
 
 Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
-
-#### Par Jason Engle
-
-* Consultant - Standards Based Assessment
-* June 29, 2006
-* Par Jason was Dan’s client
-
-Dan's influence on our work on the Tri-State Longitudinal Data Systems project has been massive. To call him a visionary is only part of the story. He is, of course. His energy is infectious, his reasoning and business case is clear, and he can back it up with code.
 
 #### Max Roesler
 
@@ -917,6 +919,14 @@ Dan continues to deliver excellent education and technical services in all evolv
 * Leila worked with Dan on the same team
 
 Dan developed innovative XDoclet templates and ant scripts for a complex Comprehensive Incident Based Reporting System data model including sample data for data dictionary reports and test scripts. His knowledge of semantic concepts and tools were an invaluable asset. His training materials allowed us to quickly bring new hires and vendors up to speed on the complex environment and subject matter.
+
+#### Par Jason Engle
+
+* Consultant - Standards Based Assessment
+* June 29, 2006
+* Par Jason was Dan’s client
+
+Dan's influence on our work on the Tri-State Longitudinal Data Systems project has been massive. To call him a visionary is only part of the story. He is, of course. His energy is infectious, his reasoning and business case is clear, and he can back it up with code.
 
 ## Netsource America
 
