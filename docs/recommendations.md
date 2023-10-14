@@ -624,13 +624,17 @@ I worked alongside Dan for nearly six months on a Minneapolis-based MarkLogic pr
 
 Dan is a pleasure to work with and extremely knowledgeable in the area of big data and associated structures and frameworks. Every time I spoke to Dan, I was presented with the opportunity to learn something new as he is always looking for way to innovate beyond the tools which are currently available. Dan will certainly be a tremendous asset to any team he is part of!
 
-#### Bill Gaynor, DoBA candidate, MBA, CHIE, ACHE
+#### Bill Gaynor
 
 * Strategy | Partnerships | Corp. Dev. M&A | Growth | Innovation | Client Success | Go-To-Market | Board Member
 * March 31, 2017
-* Bill was senior to Dan but didn't manage Dan directly
+* Bill was senior to Dan but didn't manage Dan directly at MarkLogic
 
-In technology you rarely get a chance to work with a person that is as personable as they are technically proficient. Dan is one of those rare people and it is an absolute pleasure to work with him. Dan has led and successfully delivered very strategic pre-sales and post-sales consulting engagements for one of my top healthcare clients (a top 5 payer and health services company). I am 100% comfortable with Dan's solution identification and development skills, his presentation skills, and his excellent client relationship management. Dan is one of the few people I trust to interact with clients on his own without involving a sales / relationship manager. He cares deeply about his clients, company (integrated account team) and their mutual success. Several key wins have happened, or opportunities have been generated, due to Dan's natural curiosity, credibility and trust he has built in understanding client strategies, goals, pains and developing solutions to help achieve them. Dan is an "A-list" IT consulting talent and even better person. He goes the extra mile to mitigate risk (both technical and process) and ensure success, positive results and satisfaction. In return, I go the extra mile for him when he asks because he's earned it.
+In technology you rarely get a chance to work with a person that is as personable as they are technically proficient. Dan is one of those rare people and it is an absolute pleasure to work with him. Dan has led and successfully delivered very strategic pre-sales and post-sales consulting engagements for one of my top healthcare clients (a top 5 payer and health services company). I am 100% comfortable with Dan's solution identification and development skills, his presentation skills, and his excellent client relationship management.
+
+Dan is one of the few people I trust to interact with clients on his own without involving a sales / relationship manager. He cares deeply about his clients, company (integrated account team) and their mutual success. Several key wins have happened, or opportunities have been generated, due to Dan's natural curiosity, credibility and trust he has built in understanding client strategies, goals, pains and developing solutions to help achieve them.
+
+Dan is an "A-list" IT consulting talent and even better person. He goes the extra mile to mitigate risk (both technical and process) and ensure success, positive results and satisfaction. In return, I go the extra mile for him when he asks because he's earned it.
 
 #### Alicia Saia
 
