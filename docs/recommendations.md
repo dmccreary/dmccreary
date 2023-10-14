@@ -1162,6 +1162,8 @@ Dan inspires people. When we were physics majors together in college, he inspire
 
 Excellent visionary and technical skills.
 
+!!! Note
+    I wrote a tool to merge my recommendations from multiple sites and I passed them through GPT-4 to provide consistent formatting.  Please let me know if you find any errors.
 
 
 
