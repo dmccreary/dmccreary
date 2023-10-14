@@ -11,19 +11,66 @@ Reformat the recomendations in the following Markdown format:
 
 Text of the recommendation.
 
-Never change the text or summarize.  Keep working until all the recommendations are complete.
+Never change the text or summarize.  Keep working until all the recommendations are complete.  Always return the results in a single raw markdown file.  Never stop your work or summarize.  Always complete the full conversion.
 
 -->
 
 ## Optum
 
-#### Marcie Hill
+#### Mark Megerian
 
-* Principal, Conversation DesignPrincipal, Conversation Design
-* September 25, 2023
-* Marcie worked with Dan but on different teams
+* Technology Fellow at UnitedHealth Group / Optum
+* August 10, 2023
+* Mark managed Dan directly
+* Mark is the highest ranked technologist at UHG
+* Mark was the most influetial user of the Healthcare Graph
 
-I should have been so lucky to have worked with Dan. His deep expertise in a range of AI capabilities made him the ideal colleague for providing education and inspiration to many curious audiences seeking the kind of cutting-edge information he has readily available to share and discuss with anyone. I only wish we could have worked on more projects together!I should have been so lucky to have worked with Dan. His deep expertise in a range of AI capabilities made him the ideal colleague for providing education and inspiration to many curious audiences seeking the kind of cutting-edge information he has readily available to share and discuss with anyone. I only wish we could have worked on more projects together!
+One of my favorite people to work with at Optum : Dan McCreary. Dan is relentlessly positive in all of his interactions with co-workers, has an amazing capacity for knowledge, and is always eager to learn and to collaborate. I was fortunate enough to meet Dan on my first day at Optum, and we immediately discovered a mutual kinship, love for data and analytics, and a desire to improve healthcare. Dan has expertise in a wide range of advanced technology areas, and we probably spent the most time working on graph database technology as it applies to healthcare and clinical analytics, but also worked on many other projects and even collaborated on some patent disclosures. Truly a wonderful colleague and friend.
+
+#### Jeff Compas
+
+* Distinguished Engineer at Optum
+* August 14, 2023
+* Jeff worked with Dan but on different teams
+
+Every now and then, the ebs and flows of life in a large corporation bring you into the proximity of great people. Dan is a great person who I had the privilege to work with periodically at Optum. He has a tremendous and contagious vision of how to bring the most cutting edge technologies to use in solving real-world problems. He is inquisitive, positive and a delight to work with.
+
+
+#### Rama Kulasekaran 
+
+* Head of Product Engineering | Building High-Performing Teams | Mentor | Early Career and Diversity Program Advocate
+* September 10, 2023
+* Rama worked with Dan on the same team
+
+I have had the pleasure of working with Dan at Optum. Dan brings with him passion, innovation, advice and strategic insight that allows businesses to better address their challenges via AI, ML and tools around it. Dan always looks for ways to help improve early careers students with knowledge in AI and he is engaged and builds solid relationships with his clients and business partners. I would recommend Dan as he has great work ethics, and is dedicated to his role, and believes in a positive and ethical work environment.
+
+#### Steve Graham
+
+* Senior Distinguisned Engineer, Now Retired
+* August 17, 2023
+* Steve and I worked together in the Optum Advanced Technology Collaborative
+
+I worked with Dan when we were both Distinguished Engineers at Optum. Dan is a very rare talent: able to combine deep technical knowledge with sound understanding of business needs. Dan is a thought leader on databases, specifically NOSQL databases and especially Graph databases. Dan drove the adoption of Graph databases within United Health Group, evangelizing the technology, identifying business opportunities that were ideally addressed by Graph databases. Dan partnered with business leaders, solution architects and developers to develop dozens of solutions using graph databases.
+
+Most recently, Dan took a leadership position in researching how Graph databases could be applied as a basis for AI. The notion of using networks of related objects as the basis for machine learning is quite cutting edge and has broad applicability within health care and other industries. Dan combines a passion for technology, an enthusiastic curiosity for applying technology to solve business problems and a patient skill for transferring knowledge. I learned a lot from working with Dan and I continue to be inspired by his dedication to learning technology and sharing that learning with others.
+
+#### Andrei Filimonov 
+
+* AI enthusiast and engineering leader passionate about incubating and launching cutting-edge products that make a difference
+* September 5, 2023
+* Andrei worked with Dan on the same team
+
+If you're looking for a rockstar in the AI Engineering world, look no further than Dan. I had the absolute pleasure of working with him at Optum and let me tell you, he's a game-changer.
+
+Dan isn't just super savvy with AI and machine learning, he's a bit of a tech wizard who's always ahead of the curve. He was instrumental in developing prototypes that not only leveraged emerging technologies, but also significantly cut healthcare costs and reduced risks. He has this knack for breaking down complex tech jargon into simple, understandable language which made it easy for stakeholders to get on board with our plans.
+
+But what really sets Dan apart is his leadership style. He is a mentor and a coach. He's got this infectious enthusiasm for AI and machine learning that gets the whole team excited. Under his thought leadership, we weren't just playing with AI, we were learning and growing every day delivering business value.
+
+On a personal note, Dan is a total team player. He's always up for a brainstorming session, a quick chat, or even a round of office ping pong. He's approachable, collaborative, and genuinely fun to work with.
+
+So, if your company is serious about leveraging AI to gain a competitive advantage, hiring Dan would be a no-brainer. In fact, it would be the steal of the century. Trust me, with Dan on your team, you're not just investing in an expert, you're investing in a leader who will take your company to new heights.If you're looking for a rockstar in the AI Engineering world, look no further than Dan. I had the absolute pleasure of working with him at Optum and let me tell you, he's a game-changer. Dan isn't just super savvy with AI and machine learning, he's a bit of a tech wizard who's always ahead of the curve. He was instrumental in developing prototypes that not only leveraged emerging technologies, but also significantly cut healthcare costs and reduced risks. He has this knack for breaking down complex tech jargon into simple, understandable language which made it easy for stakeholders to get on board with our plans.
+
+But what really sets Dan apart is his leadership style. He is a mentor and a coach. He's got this infectious enthusiasm for AI and machine learning that gets the whole team excited. Under his thought leadership, we weren't just playing with AI, we were learning and growing every day delivering business value. On a personal note, Dan is a total team player. He's always up for a brainstorming session, a quick chat, or even a round of office ping pong. He's approachable, collaborative, and genuinely fun to work with. So, if your company is serious about leveraging AI to gain a competitive advantage, hiring Dan would be a no-brainer. In fact, it would be the steal of the century. Trust me, with Dan on your team, you're not just investing in an expert, you're investing in a leader who will take your company to new heights.
 
 #### Russ Lawrence 
 
@@ -36,6 +83,34 @@ I was fortunate to work with Dan during the past four years on emerging graph an
 While working with Dan, there are three things he does exceptionally well. First, Dan has an ability to take complex technology and break it into simple terms so that people will understand the basics to advanced features. Second, Dan has a rare ability to understand business and technology problems and craft solutions that are consumable by all stakeholders. Lastly, Dan cares about the people around him. He will make time to help you, your team or your organization get to the next level using advanced technology in simple applications and solutions.
 
 Dan is a person who will elevate the breadth and depth of your organization.I was fortunate to work with Dan during the past four years on emerging graph and AI technologies at UHG. Dan is a selfless person who is dedicated to helping people around him be better at their craft and understanding and applying technology to business problems. While working with Dan, there are three things he does exceptionally well. First, Dan has an ability to take complex technology and break it into simple terms so that people will understand the basics to advanced features. Second, Dan has a rare ability to understand business and technology problems and craft solutions that are consumable by all stakeholders. Lastly, Dan cares about the people around him. He will make time to help you, your team or your organization get to the next level using advanced technology in simple applications and solutions. Dan is a person who will elevate the breadth and depth of your organization.
+
+#### Ryan Allen
+
+* Distinguished Engineer and Senior Director @ UnitedHealth Group
+* August 15, 2023
+* Ryan helped me design and deliver our courses on Explainable AI for Healthcare
+
+Dan is truly an authority in Explainable AI, Machine Learning, Systems Thinking, and Graph Technologies. His innovative mindset, collaborative spirit, and deep well of knowledge makes him an amazing asset to any project or team.
+
+We collaborated to co-create and co-teach an enlightening course on Explainable AI, and Dan's ability to convey complex concepts in a clear and concise manor was amazing. But beyond that Dan was a mentor to me, showing me what a true technologist is capable of and that part of being am expert in the field is also giving back. I truly enjoyed working with and getting to know Dan.
+
+#### Randy Olinger
+
+* Distinguished Engineer, Optum / Unitedhealth Group
+* August 24, 2023
+* Randy worked with Dan on the same team
+
+I have worked closely with Dan for over ten years, both during the rescue of healthcare.gov and when he joined Optum. During that time I can honestly say I have known few people with his ability to evaluate technologies and tie creative ideas to business value. He has that unique ability to both sell people on a big idea and execute on the idea. Dan is as good a futurist as economist as technologist.
+
+I have also worked closely with him on the evangelism of AI and machine learning at Optum. Dan started the Optum AI racing league, which was a creative way to engage engineers in a fun way to do their first machine learning project. Dan created the idea, found funding, and hosted training sessions for over 250 people. I'm proud to know Dan, you would be too.
+
+#### Marcie Hill
+
+* Principal, Conversation DesignPrincipal, Conversation Design
+* September 25, 2023
+* Marcie worked with Dan but on different teams
+
+I should have been so lucky to have worked with Dan. His deep expertise in a range of AI capabilities made him the ideal colleague for providing education and inspiration to many curious audiences seeking the kind of cutting-edge information he has readily available to share and discuss with anyone. I only wish we could have worked on more projects together!I should have been so lucky to have worked with Dan. His deep expertise in a range of AI capabilities made him the ideal colleague for providing education and inspiration to many curious audiences seeking the kind of cutting-edge information he has readily available to share and discuss with anyone. I only wish we could have worked on more projects together!
 
 #### Daria Trakhtenberg
 
@@ -74,43 +149,23 @@ I had the privilege to work with Dan on a learning and development program aroun
 
 I had the privilege to work with Dan on a learning and development program around explainable AI. By far Dan is probably one of the most knowledgable AI/Machine Learning/Data Science people I have been the pleasure to work with. Not only is Dan knowledgeable in AI/Machine Learning/Data Science Dan can also teach someone how to use it. That is not an easy skillset for someone with a data science mindset and Dan has it mastered. Dan has the patience to dumb things down to make it understandable for the average learner and for the above average learner.
 
-#### Rama Kulasekaran 
-
-* Head of Product Engineering | Building High-Performing Teams | Mentor | Early Career and Diversity Program Advocate
-* September 10, 2023
-* Rama worked with Dan on the same team
-
-I have had the pleasure of working with Dan at Optum. Dan brings with him passion, innovation, advice and strategic insight that allows businesses to better address their challenges via AI, ML and tools around it. Dan always looks for ways to help improve early careers students with knowledge in AI and he is engaged and builds solid relationships with his clients and business partners. I would recommend Dan as he has great work ethics, and is dedicated to his role, and believes in a positive and ethical work environment.I have had the pleasure of working with Dan at Optum. Dan brings with him passion, innovation, advice and strategic insight that allows businesses to better address their challenges via AI, ML and tools around it. Dan always looks for ways to help improve early careers students with knowledge in AI and he is engaged and builds solid relationships with his clients and business partners. I would recommend Dan as he has great work ethics, and is dedicated to his role, and believes in a positive and ethical work environment.
-
-#### Andrei Filimonov 
-
-* AI enthusiast and engineering leader passionate about incubating and launching cutting-edge products that make a difference
-* September 5, 2023
-* Andrei worked with Dan on the same team
-
-If you're looking for a rockstar in the AI Engineering world, look no further than Dan. I had the absolute pleasure of working with him at Optum and let me tell you, he's a game-changer.
-
-Dan isn't just super savvy with AI and machine learning, he's a bit of a tech wizard who's always ahead of the curve. He was instrumental in developing prototypes that not only leveraged emerging technologies, but also significantly cut healthcare costs and reduced risks. He has this knack for breaking down complex tech jargon into simple, understandable language which made it easy for stakeholders to get on board with our plans.
-
-But what really sets Dan apart is his leadership style. He is a mentor and a coach. He's got this infectious enthusiasm for AI and machine learning that gets the whole team excited. Under his thought leadership, we weren't just playing with AI, we were learning and growing every day delivering business value.
-
-On a personal note, Dan is a total team player. He's always up for a brainstorming session, a quick chat, or even a round of office ping pong. He's approachable, collaborative, and genuinely fun to work with.
-
-So, if your company is serious about leveraging AI to gain a competitive advantage, hiring Dan would be a no-brainer. In fact, it would be the steal of the century. Trust me, with Dan on your team, you're not just investing in an expert, you're investing in a leader who will take your company to new heights.If you're looking for a rockstar in the AI Engineering world, look no further than Dan. I had the absolute pleasure of working with him at Optum and let me tell you, he's a game-changer. Dan isn't just super savvy with AI and machine learning, he's a bit of a tech wizard who's always ahead of the curve. He was instrumental in developing prototypes that not only leveraged emerging technologies, but also significantly cut healthcare costs and reduced risks. He has this knack for breaking down complex tech jargon into simple, understandable language which made it easy for stakeholders to get on board with our plans. But what really sets Dan apart is his leadership style. He is a mentor and a coach. He's got this infectious enthusiasm for AI and machine learning that gets the whole team excited. Under his thought leadership, we weren't just playing with AI, we were learning and growing every day delivering business value. On a personal note, Dan is a total team player. He's always up for a brainstorming session, a quick chat, or even a round of office ping pong. He's approachable, collaborative, and genuinely fun to work with. So, if your company is serious about leveraging AI to gain a competitive advantage, hiring Dan would be a no-brainer. In fact, it would be the steal of the century. Trust me, with Dan on your team, you're not just investing in an expert, you're investing in a leader who will take your company to new heights.
-
 #### Ryan Duhon 
 
 * Senior Instructional Designer at Lumious
 * August 29, 2023
-* Dan was Ryan’s client
+* Ryan help me turn my slides on Explainable AI in Healthcare incredible online course
+* Ryan was one of the best instructional designers I have ever worked with
 
-I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!
+I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!I'm an instructional designer who worked with Dan to make a series of eLearning modules about Explainable AI aimed at non-engineers. 
+
+I very often work with people like Dan who are as deep an expert in their field as anyone on the planet and often its difficult for someone who knows so much about a complicated topic to distill it down to an understandable message for the beginner and its my job to help them do that. But, with Dan there was no need. He reminds me of someone like Neil deGrasse Tyson in the sense that he knows so much about his field but excels at being able to break it down in a way that those outside his field can easily gain a basic understanding. This is a rare talent and I would be ecstatic to work with him again. Hire him before someone else does!
 
 #### Stephen St. Peter
 
 * Principal Engineer at UnitedHealth Group
 * August 27, 2023
 * Stephen worked with Dan but on different teams
+* Stephen is one of the world's experts on rules engines
 
 I appreciate Dan for his willingness to share his time, wisdom, and experiences with junior employees like myself. I was recommended to reach out to Dan for one particular issue which he helped me with, but then found him to be a wealth of guidance and help for many other political, architectural, and technological topics. He has a gift for taking complex issues, boiling them down to a digestible and understandable narrative, then providing a clear vision for the future.
 
@@ -119,16 +174,10 @@ I appreciate Dan for his willingness to share his time, wisdom, and experiences 
 * Program Manager for Technology Development Program at Optum
 * August 25, 2023
 * Kristen worked with Dan but on different teams
+* Kristen helped me design the best data engineering curriculum that was used by thousands of our new hires at UHG
 
 Dan is one of the most knowledgeable and education-oriented engineers with whom I have ever worked. Dan served as a curriculum lead for the Data Science and Engineering career track of the Technology Development Program Bootcamp at Optum. His expertise in the field was incredibly valuable and the curriculum he built continues to educate many early-career data scientists and engineers globally. Dan is an incredible asset to any team with which he works.
 
-#### Randy Olinger
-
-* Distinguished Engineer, Optum / Unitedhealth Group
-* August 24, 2023
-* Randy worked with Dan on the same team
-
-I have worked closely with Dan for over ten years, both during the rescue of healthcare.gov and when he joined Optum. During that time I can honestly say I have known few people with his ability to evaluate technologies and tie creative ideas to business value. He has that unique ability to both sell people on a big idea and execute on the idea. Dan is as good a futurist as economist as technologist. I have also worked closely with him on the evangelism of AI and machine learning at Optum. Dan started the Optum AI racing league, which was a creative way to engage engineers in a fun way to do their first machine learning project. Dan created the idea, found funding, and hosted training sessions for over 250 people. I'm proud to know Dan, you would be too.
 
 #### Brandon Moe
 
@@ -136,7 +185,9 @@ I have worked closely with Dan for over ten years, both during the rescue of hea
 * August 24, 2023
 * Dan was senior to Brandon but didn't manage Brandon directly
 
-Dan is a very special talent. There are very few people that I have come across in my career with both the depth and breadth of knowledge that Dan has accumulated. Even more rare, Dan has an unmatched ability to convey that knowledge in an easy to comprehend way regardless of the audience. As many other do, I have the privilege of calling Dan a mentor. Dan is extremely generous with his time and knowledge, he has a true passion for educating others and has a genuine interest in the success of those around him. He is an individual who's value far exceeds his individual contributions by making everyone around him not just more productive contributors but better people. If you are lucky enough to share five or ten minutes with Dan you will surely see him highlight his passion of sharing knowledge and his incredible generosity. Any organization would be lucky to have Dan.
+Dan is a very special talent. There are very few people that I have come across in my career with both the depth and breadth of knowledge that Dan has accumulated. Even more rare, Dan has an unmatched ability to convey that knowledge in an easy to comprehend way regardless of the audience. As many other do, I have the privilege of calling Dan a mentor. Dan is extremely generous with his time and knowledge, he has a true passion for educating others and has a genuine interest in the success of those around him.
+
+He is an individual who's value far exceeds his individual contributions by making everyone around him not just more productive contributors but better people. If you are lucky enough to share five or ten minutes with Dan you will surely see him highlight his passion of sharing knowledge and his incredible generosity. Any organization would be lucky to have Dan.
 
 #### Carl Boudreau
 
@@ -175,13 +226,13 @@ Dan is extremely technologically knowledgeable, but what I appreciate the most i
 ---
 
 #### Ryan Gerstner
+
 * Improving customer web experience through business, marketing and operations utilizing web analytics
 * August 20, 2023
 * Ryan worked with Dan but on different teams
 
 Dan was easy to work with and had a positive attitude in all of our interactions. He understood the technical requirements needed to adopt our group's tool and asked clear, direct questions when needed.
 
----
 
 #### Ryan Thayer
 
@@ -210,7 +261,7 @@ His commitment to excellence, his collaborative spirit, and his ability to commu
 
 #### Catherine Boucher
 
-* Director of Technical Services at Bonterra
+* Director of Technical Services at Bonterra.  Former Microsoft Leader.
 * August 19, 2023
 * Catherine worked with Dan on the same team
 
@@ -224,13 +275,6 @@ Dan is exceptional at building out new platforms applying the most recent techni
 
 I've worked with Dan on a couple of initiatives here at Optum, and also followed his blogs and always made a point to attend his presentations as I was able. I was always impressed by his breadth and depth of knowledge across so many disparate subjects. Specifically, his knowledge in the areas of various database technologies, large language models, systems thinking, explainable AI, hardware considerations, etc. are truly impressive. He is always ready and able to provide support, guidance and mentorship. He is gracious with his time, and brings a joy of sharing his knowledge and experience with others that is infectious. Dan is an inspiring teacher and mentor, a visionary, and a skilled practitioner of his craft. He will be sorely missed here at Optum.
 
-#### Steve Graham
-
-* Retired
-* August 17, 2023
-* Steve worked with Dan on the same team
-
-I worked with Dan when we were both Distinguished Engineers at Optum. Dan is a very rare talent: able to combine deep technical knowledge with sound understanding of business needs. Dan is a thought leader on databases, specifically NOSQL databases and especially Graph databases. Dan drove the adoption of Graph databases within United Health Group, evangelizing the technology, identifying business opportunities that were ideally addressed by Graph databases. Dan partnered with business leaders, solution architects and developers to develop dozens of solutions using graph databases. Most recently, Dan took a leadership position in researching how Graph databases could be applied as a basis for AI. The notion of using networks of related objects as the basis for machine learning is quite cutting edge and has broad applicability within health care and other industries. Dan combines a passion for technology, an enthusiastic curiosity for applying technology to solve business problems and a patient skill for transferring knowledge. I learned a lot from working with Dan and I continue to be inspired by his dedication to learning technology and sharing that learning with others.
 
 #### Neha Tiwari
 
@@ -296,14 +340,6 @@ Dan has been such a great leader in the AI space and I'm grateful for all the ch
 
 Dan is a leader and subject matter expert in AI/ML space. I learnt a lot from him over the period. I was lucky and happy to be connected to him in the beginning of my journey in AI/ML as it made it that much easier and fun. Thank you, Dan, for your readiness to help and educate. You will be a great asset and a teacher wherever you go. The leaders and executives will benefit from your thought leadership and scores of other teammates will benefit from your compassionate sharing of vast knowledge you possess. I am grateful that I was able to connect with you in Optum.
 
-#### Ryan Allen
-
-* Distinguished Engineer and Senior Director @ UnitedHealth Group
-* August 15, 2023
-* Ryan worked with Dan but on different teams
-
-Dan is truly an authority in Explainable AI, Machine Learning, Systems Thinking, and Graph Technologies. His innovative mindset, collaborative spirit, and deep well of knowledge makes him an amazing asset to any project or team. We collaborated to co-create and co-teach an enlightening course on Explainable AI, and Dan's ability to convey complex concepts in a clear and concise manor was amazing. But beyond that Dan was a mentor to me, showing me what a true technologist is capable of and that part of being am expert in the field is also giving back. I truly enjoyed working with and getting to know Dan.
-
 #### Maria (Argento) Perkins
 
 * Business Process Re-Engineering | Consulting | Healthcare | Merger & Acquisition Integration | Program Management | Sales & Customer Retention | Servant Leadership | Team Building |Technology Strategy & Execution
@@ -335,14 +371,6 @@ Dan is adept at exploring technology for the purpose of unlocking or creating bu
 * Rob worked with Dan on the same team
 
 Dan's encouragement and enthusiasm has played a substantial role in the development of the engineer that I am today. He was my guide while I was starting to learn about machine learning and graph analytical techniques. He was instrumental in my development as a teacher -- something I find important as we try to democratize access to machine learning. Dan demonstrated how to make complex topics like computer vision and driverless RC cars approachable. He then helped me do the same with a course on graph-based machine learning. Dan is known for his approachable and welcoming demeanour. That would give me the extra bit of confidence to try new things and grow. This has a compounding affect, since conquering one seemingly insurmountable mountain can inspire you to conquer the next mountain of a topic.
-
-#### Jeff Compas
-
-* Co-Owner and CEO
-* August 14, 2023
-* Jeff worked with Dan but on different teams
-
-Every now and then, the ebs and flows of life in a large corporation bring you into the proximity of great people. Dan is a great person who I had the privilege to work with periodically at Optum. He has a tremendous and contagious vision of how to bring the most cutting edge technologies to use in solving real-world problems. He is inquisitive, positive and a delight to work with.
 
 #### Will Wittkopf
 
@@ -422,7 +450,9 @@ Dan McCreary served as my mentor in the Generative AI space, demonstrating leade
 * August 11, 2023
 * Amit worked with Dan but on different teams
 
-I have had the privilege of working with Dan in his role as a distinguish engineer at Optum and I am delighted to endorse him for his remarkable contributions in the realm of AI & Knowledge graph. Dan is wealth of knowledge and every interaction with him is so pleasant and enlightening. I got the opportunity to ideate on the graph solutions for healthcare and various possible implementation to change the way we do it in the current state. Furthermore, Dan's mastery of generative AI has opened up new avenues for innovation in our organization. He has done a phenomenal job in Gen AI adoption in the organization. Beyond his professional achievements, Dan's generosity in sharing his expertise and time has made him an exceptionally helpful coworker. He consistently goes above and beyond to support his colleagues, fostering a sense of camaraderie within our team. In conclusion, Dan's deep industry knowledge, innovative mindset, and collaborative spirit make him an exemplary leader in the field of AI & Knowledge graph. His contributions have not only advanced our organization's capabilities but have also made a lasting impact on the quality of healthcare we provide. It is without hesitation that I endorse Dan for his exceptional achievements and valuable contributions.
+I have had the privilege of working with Dan in his role as a distinguish engineer at Optum and I am delighted to endorse him for his remarkable contributions in the realm of AI & Knowledge graph. Dan is wealth of knowledge and every interaction with him is so pleasant and enlightening. I got the opportunity to ideate on the graph solutions for healthcare and various possible implementation to change the way we do it in the current state. Furthermore, Dan's mastery of generative AI has opened up new avenues for innovation in our organization. He has done a phenomenal job in Gen AI adoption in the organization.
+
+Beyond his professional achievements, Dan's generosity in sharing his expertise and time has made him an exceptionally helpful coworker. He consistently goes above and beyond to support his colleagues, fostering a sense of camaraderie within our team. In conclusion, Dan's deep industry knowledge, innovative mindset, and collaborative spirit make him an exemplary leader in the field of AI & Knowledge graph. His contributions have not only advanced our organization's capabilities but have also made a lasting impact on the quality of healthcare we provide. It is without hesitation that I endorse Dan for his exceptional achievements and valuable contributions.
 
 #### Paul Godden, Ph.D.
 
@@ -444,7 +474,7 @@ Dan has vast and multifaceted experience, but what he stands out in is his abili
 
 * With over 650 issued US patents, Greg is the 53rd most prolific inventor in world history.
 * August 11, 2023
-* Greg worked with Dan but on different teams
+* Greg and I filed several patents together
 
 I have had the privilege of working closely with Dan McCreary for several years, and I wholeheartedly recommend him as an expert in the field of AI / machine learning, knowledge graphs, and databases. Dan's vast knowledge and experience in these areas, particularly within the healthcare industry, make him an invaluable asset to any team or project. Dan's calm and collected demeanor, coupled with his technical and business insights, sets a positive tone in any professional setting. He consistently delivers thoughtful and insightful recommendations, and his ability to distill intricate technical details into clear and compelling explanations is truly remarkable. One of Dan's most impressive qualities is his dedication to collaboration and knowledge sharing. He played a pivotal role in our team's success with knowledge graphs and AI/ML implementations. His expertise in solution architectures and his analytical skills were instrumental in shaping effective strategies that drove results. His storytelling abilities helped us communicate our achievements to both technical and non-technical stakeholders.
 
@@ -456,7 +486,9 @@ As a Distinguished Engineer, Dan's contributions go far beyond technical experti
 * August 11, 2023
 * Prassanna worked with Dan on the same team
 
-I had the distinct privilege of working closely with Dan and it's been an incredibly enlightening experience. Dan is a consummate professional with an exceptional ability to lead teams and orchestrate complex business engagements. His visionary guidance and strategic insights have been invaluable to our projects, and I've personally gained a wealth of knowledge from his mentorship. Dan's analytical prowess and remarkable technical acumen set a benchmark, demonstrating a deep understanding of intricate details while never losing sight of the bigger picture. I consider myself fortunate to have collaborated with Dan and continue to be inspired by his leadership and expertise.
+I had the distinct privilege of working closely with Dan and it's been an incredibly enlightening experience. Dan is a consummate professional with an exceptional ability to lead teams and orchestrate complex business engagements. His visionary guidance and strategic insights have been invaluable to our projects, and I've personally gained a wealth of knowledge from his mentorship.
+
+Dan's analytical prowess and remarkable technical acumen set a benchmark, demonstrating a deep understanding of intricate details while never losing sight of the bigger picture. I consider myself fortunate to have collaborated with Dan and continue to be inspired by his leadership and expertise.
 
 #### Pete Edstrom
 
@@ -464,7 +496,11 @@ I had the distinct privilege of working closely with Dan and it's been an incred
 * August 11, 2023
 * Pete worked with Dan but on different teams
 
-I have had the privilege of working alongside Dan McCreary for 7 years, collaborating on cutting-edge search engine, semantic services, and machine learning projects. Dan's expertise in artificial intelligence has been instrumental in the success of many teams at Optum, including our recently released embedding service designed to be a foundational element for all generative AI initiatives at Optum. Dan's ability to present complex topics in an accessible manner has consistently impressed senior leadership. His training classes and presentations are always generating fantastic and positive feedback from attendees. What sets Dan apart is his foresight. His thought leadership on the "generative turn" was visionary, recognizing changes far ahead of others in the field. As a leader, he established the Generative AI Center of Excellence for Optum, facilitating the effective utilization and discussion of emerging technologies within our organization. I hold Dan in the highest regard and consider him an absolute "A" player. His leadership, expertise, and innovative thinking will be an invaluable asset to any team. I wholeheartedly recommend Dan for any role that seeks to leverage his unmatched talents in artificial intelligence, visionary insight, and the ability to make complex topics approachable to everyone.
+I have had the privilege of working alongside Dan McCreary for 7 years, collaborating on cutting-edge search engine, semantic services, and machine learning projects. Dan's expertise in artificial intelligence has been instrumental in the success of many teams at Optum, including our recently released embedding service designed to be a foundational element for all generative AI initiatives at Optum.
+
+Dan's ability to present complex topics in an accessible manner has consistently impressed senior leadership. His training classes and presentations are always generating fantastic and positive feedback from attendees. What sets Dan apart is his foresight. His thought leadership on the "generative turn" was visionary, recognizing changes far ahead of others in the field.
+
+As a leader, he established the Generative AI Center of Excellence for Optum, facilitating the effective utilization and discussion of emerging technologies within our organization. I hold Dan in the highest regard and consider him an absolute "A" player. His leadership, expertise, and innovative thinking will be an invaluable asset to any team. I wholeheartedly recommend Dan for any role that seeks to leverage his unmatched talents in artificial intelligence, visionary insight, and the ability to make complex topics approachable to everyone.
 
 #### Parker Erickson
 
@@ -472,15 +508,9 @@ I have had the privilege of working alongside Dan McCreary for 7 years, collabor
 * August 10, 2023
 * Parker reported directly to Dan
 
-Dan has been a great mentor to me in my early career. Always a visionary, he stands at (and guides others to) the confluence of three important trends in industry today: machine learning, knowledge representation, and natural language processing. In addition to being a mentor and visionary, Dan always makes sure that he shares his knowledge - be it through CoderDojo and the AI Racing League in his spare time, or through developing training courses in new technologies such as graph machine learning and large language models for internal employee audiences. His understanding of how to map new technologies to "wicked" business problems and evangelize those ideas through storytelling is unparalleled. I feel very lucky to be able to call Dan a great friend and mentor.
+Dan has been a great mentor to me in my early career. Always a visionary, he stands at (and guides others to) the confluence of three important trends in industry today: machine learning, knowledge representation, and natural language processing. In addition to being a mentor and visionary, Dan always makes sure that he shares his knowledge - be it through CoderDojo and the AI Racing League in his spare time, or through developing training courses in new technologies such as graph machine learning and large language models for internal employee audiences.
 
-#### Mark Megerian
-
-* Technology Fellow at UnitedHealth Group / Optum
-* August 10, 2023
-* Mark managed Dan directly
-
-One of my favorite people to work with at Optum : Dan McCreary. Dan is relentlessly positive in all of his interactions with co-workers, has an amazing capacity for knowledge, and is always eager to learn and to collaborate. I was fortunate enough to meet Dan on my first day at Optum, and we immediately discovered a mutual kinship, love for data and analytics, and a desire to improve healthcare. Dan has expertise in a wide range of advanced technology areas, and we probably spent the most time working on graph database technology as it applies to healthcare and clinical analytics, but also worked on many other projects and even collaborated on some patent disclosures. Truly a wonderful colleague and friend.
+His understanding of how to map new technologies to "wicked" business problems and evangelize those ideas through storytelling is unparalleled. I feel very lucky to be able to call Dan a great friend and mentor.
 
 #### Deborah Ketai, PMP, RMP, CMS
 
