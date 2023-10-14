@@ -23,7 +23,7 @@ Please let me know if you can help contribute example programs.
 
 ## Moving Rainbow
 
-[Moving Rainbow Website](dmccreary.github.io/moving-rainbow)
+[Moving Rainbow Website](http://dmccreary.github.io/moving-rainbow)
 
 How much computational thinking can we teach using a $4 microcontroller and a $3 LED strip?  It turns
 out the answer is "a lot!".  This website has many examples of learning how to program
