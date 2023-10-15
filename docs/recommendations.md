@@ -793,13 +793,7 @@ Ann and I built custom workflow engines for processing XML representations of mu
 
 Dan is very knowledgeable, a natural teacher and a published visionary. I worked with Dan on projects at NueMeta. Early on in the business model planning he was able to focus the team on solutions and capabilities of the technology that would solve the major pain points we had identified. I came away with more knowledge and understanding of many different technologies in all of my one on one interactions with him. I hope to work with Dan again in the near future.
 
-#### Kevin M Coonan, MD
-
-* Emergency Medicine Physician and Medical Informaticist
-* January 10, 2011
-* Kevin M was Dan’s client
-
-Dan is a clear thought leader with deep expertise on the future of system interoperability and advanced uses of structured information. He has extensive knowledge of not only the ins and outs of XML based information modeling and semantic web technology, but on how to use it to achieve meaningful results.
+## Independant Consulting
 
 #### John Hibscher
 
@@ -808,6 +802,18 @@ Dan is a clear thought leader with deep expertise on the future of system intero
 * John was Dan’s client
 
 Mr McCreary has the rare skill of combining technical expertise with incredible business and inter-personal interfacing skills. He has been always diligent in providing services for our company and invested in the cause of increasing productivity and simplifying business operations. We would not hesitate to hire Dan again and always maintain an open ear for his suggestions.
+
+#### Kevin M Coonan, MD
+
+* Emergency Medicine Physician and Medical Informaticist
+* January 10, 2011
+* Kevin M was Dan’s client
+
+Dan is a clear thought leader with deep expertise on the future of system interoperability and advanced uses of structured information. He has extensive knowledge of not only the ins and outs of XML based information modeling and semantic web technology, but on how to use it to achieve meaningful results.
+
+## W3C Standards
+
+I worked with many people over the years on XML, XForms, RDF and GQL standards.  I am a huge fan of open standards that mitigate vendor lockin.
 
 #### David Wood
 
@@ -919,14 +925,6 @@ Dan was a pleasure to work with from start to finish. His immediate and thorough
 When Dan arrived on site to work through the implementation, he patiently explained all the aspects of the project and synchronized to our knowledge level in order to gain maximum efficiency in completing the project together.
 
 Dan has the rare skill of combining technical expertise with incredible business and inter-personal interfacing skills. He has been always diligent in providing services for our company and invested in the cause of increasing productivity and simplifying business operations. We would not hesitate to hire Dan again and always maintain an open ear for his suggestions.
-
-#### Mitch Berg
-
-* Principal UX Designer, problem solver, mentor.
-* February 7, 2007
-* Dan was senior to Mitch but didn't manage Mitch directly
-
-Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
 
 #### Max Roesler
 
@@ -1065,7 +1063,6 @@ Dan has a greater capacity for sharing his vision and enthusiasm for technology 
 * February 7, 2007
 
 Working in the same room as Dan was like riding in a Turbo Carrera with no brakes; you never knew where you were going to end up, but it was going to be an interesting trip. Dan is a visionary, the kind of guy every organization or team needs to put a goal, one worth shooting for, out in front of everyone else. A genuinely inspiring guy to work for.
-
 
 ## Boss Logic
 
