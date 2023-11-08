@@ -6,15 +6,15 @@
 
 ### My Next Role
 
-I am looking for a well-funded and rapidly growing company with products that are at the intersection of large-language models and knowledge graphs.  This area has huge growth opportunities and I have strong leadership skills in these technologies.
+Dan is looking for a well-funded and rapidly growing company with products that are at the intersection of large-language models and enterprise knowledge graphs.  Dan believes this is a huge growth area and he has strong leadership skills in these technologies.
 
 ### About Me
 
-I am a seasoned **Solution Architect** with a profound background in **Knowledge Representation for AI**. I have extensive experience in building the world’s largest **Enterprise Knowledge Graphs** for integrated member, customer, provider and patient records. I am passionate about helping organizations create precise, scalable models above tens of billions of vertices. My personal mission is to assist individuals and organizations in performing objective solution architecture analysis through the art of **storytelling**.
+Dan is a seasoned **Solution Architect** with a profound background in **Knowledge Representation for AI**. Dan has extensive experience in building the world’s largest **Enterprise Knowledge Graphs** for integrated member, customer, provider and patient records. Dan is passionate about helping organizations create precise, scalable models above tens of billions of vertices. My personal mission is to assist individuals and organizations in performing objective solution architecture analysis through the art of **storytelling**.
 
-I have a unique skill.  I can **visualize how data moves** through hardware, through networks, through databases, and through applications. I can see data movement from the chip level all the way through application stacks.  This visual thinking skill allows me to quickly understand the fitness of knowledge representations to business problems.
-The ability to see entire systems at work give me a unique perspective
-on problem solving.
+Dan has a unique skill.  He can clearly **visualize how data moves** through hardware, through networks, through databases, and through software applications. Dan can "see" data movement from the lowest chip level all the way up through complex application stacks.  This visual thinking skill allows him to quickly understand the fitness of knowledge representations to business problems.
+The ability to see entire systems at work gives Dan a unique [Systems Thinking](https://dmccreary.github.io/graph-systems-thinking/) perspective on problem solving
+and architecture tradeoff analysis.
 
 ### Experience
 
@@ -31,21 +31,23 @@ on problem solving.
 - FPGAs and Complex Memory Management Systems
 - Systems Thinking and Complex Adaptive Systems
 
-### Achievements
+### Recent Achievements
 
-- Leader in building the world's largest healthcare knowledge graph
+- Leader of the Optum Generative AI Center of Excellence
+- Leader in building the world's largest healthcare knowledge graph (over 25 billion vertices)
+- Champion of semantic search and ontology management (patent holder)
 - Co-author of the highly-rated book "**Making Sense of NoSQL**" [https://www.manning.com/books/making-sense-of-nosql](https://www.manning.com/books/making-sense-of-nosql)
 - Thought leader for the adoption of Enterprise Knowledge Graphs
-- Co-founder of the "**NoSQL Now!**" conference
+- Founder of the [**NoSQL Now!**](https://www.dataversity.net/tag/nosql-now/) conference (now part of Dataversity)
 - Speaker at AI Hardware and advanced memory management conferences
 
 ### Keynote Speaker
 
-I have been a keynote speaker at several prestigious technology conferences, spreading insights and thought leadership on AI, knowledge graphs, and advanced technology solutions.
+Dan has been a keynote speaker at several prestigious technology conferences, spreading insights and thought leadership on AI, enterprise knowledge graphs, and advanced technology solutions.
 
 ### Passion for Systems Thinking
 
-**Systems Thinking** and **Complex Adaptive Systems** are not just principles I work by but are the lenses through which I view the world. I am deeply invested in exploring the interconnections and interactions that govern systems and love elucidating these complex phenomena.
+**Systems Thinking** and **Complex Adaptive Systems** are not just principles Dan works with, but they are the lenses through which he views the world. Dan is deeply invested in exploring the interconnections and interactions that govern large complex systems and he loves elucidating these complex phenomena.
 
 ### Education
 
@@ -62,4 +64,4 @@ I have been a keynote speaker at several prestigious technology conferences, spr
 
 - **LinkedIn:** [https://www.linkedin.com/in/danmccreary/](https://www.linkedin.com/in/danmccreary/)
 
-*Last Updated: October 2023*
+*Last Updated: November 2023*
