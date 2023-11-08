@@ -56,9 +56,14 @@ Dan has been a keynote speaker at several prestigious technology conferences, sp
 * **MSEE** - University of Minnesota
 * **MBA** - University of St. Thomas - 33 of 36 credits done (a work in progress)
 
-### Other
+### Blog
 
 - **Blog:** [https://dmccreary.medium.com/](https://dmccreary.medium.com/)
+
+### Volunteer Work
+
+Dan is an active volunteer using AI and knowledge graphs to help promote education.  He has volunteered for organizations such as [Code Savvy](https://www.codesavvy.org/) and [Coder Dojo](https://coderdojo.com/).  Dan
+also maintains the popular [MicroPython for Kids](https://www.coderdojotc.org/micropython/) as well as several other [STEM](./stem.md) projects.
 
 ### Contact Information
 
