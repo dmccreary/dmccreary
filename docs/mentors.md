@@ -1,6 +1,6 @@
 # Dan McCreary's Mentors
 
-We are all reflections of people that influence us.  Here are some of the people that have had the deepest influence on my careers.
+We are all reflections of people that influence us.  Here are some of the people that have had the deepest influence on my career and my worldviews.
 
 
 * Bruce Thomas - [Physics Professor](https://www.carleton.edu/physics-astronomy/faculty/) at Carleton College.  Laurence McKinley Gould Professor of the Natural Sciences, Emeritus
