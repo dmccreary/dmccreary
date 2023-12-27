@@ -1,6 +1,8 @@
 # Dan McCreary's STEM Resources
 
-## CoderDojoTC Python Website
+## Websites
+
+### CoderDojoTC Python Website
 
 [CoderDojo Twin Cities Python Microsite](https://www.coderdojotc.org/python/)
 
@@ -12,7 +14,7 @@ Note that when we start, students are shown this map.  If they reach the end (no
 
 ![Python Sticker](./img/python-sticker-v2.jpg)
 
-## CoderDojoTC MicroPython
+### CoderDojoTC MicroPython
 
 [MicroPython Website](https://www.coderdojotc.org/micropython/)
 
@@ -29,11 +31,19 @@ Every month we are getting more and more page views and we continue to add new c
 
 This map shows the number of page views by country in 2023.
 
-## MicroSims
+### MicroSims
+
+[MicroSims Website](https://dmccreary.github.io/microsims/)
+
+This website contains our current examples of how we use generative AI to create highly customizable simulations for
+each classroom.  Most of our examples generate p5.js JavaScript programs that can be customized with prompts.  We
+have extraordinary success teaching teachers to use generative AI to create these simulations but also generate
+detailed lesson plans that are grade-specific using this approach.
+
+![](./img/wave-of-microsims.webp)
 
 
-
-## Moving Rainbow
+### Moving Rainbow
 
 [Moving Rainbow Website](http://dmccreary.github.io/moving-rainbow)
 
@@ -48,7 +58,7 @@ kits.  This $7 kit and this website has also been used for our Halloween costume
 
 ![](./img/moving-rainbow-kit.jpg)
 
-## Robot Faces
+### Robot Faces
 
 [Robot Faces Website](https://dmccreary.github.io/robot-faces)
 
@@ -58,7 +68,7 @@ ellipse and poly functions introduced in 2023 to make drawing even complex shape
 
 ![Robot Face](./img/robot-face.png)
 
-## Generative AI For Teachers
+### Generative AI For Teachers
 
 [Generative AI For Teachers Website](http://www.coderdojotc.org/chatgpt-for-teachers/)
 
@@ -68,19 +78,31 @@ students.  It has grown to include a rich library of simulations for helping
 instructors demonstrate concepts.  The site also includes a link to the video
 of our presentation.
 
-![](./img/genai-for-teachers.png)
+![Generative AI for Teachers](./img/genai-for-teachers.png)
 
-## Clocks and Watches
+### Clocks and Watches
 
 [MicroPython Clocks and Watches Website](https://dmccreary.github.io/micropython-watch/)
 
 This is our latest project that takes advantage of the new color Smart Watch displays.  Although
 the displays cost only around $7 each, they offer bright colors on a 240-240 circular display.
 You can program your own digital and analog watch faces as well as build clocks that
-synronize with the time servers for accurate time.  They can even be used
+synchronize with the time servers for accurate time.  They can even be used
 to display the current temperature, weather forecast and phases of the moon.
 
-## TED-X Youth Video
+### Robot Day
+
+[Robot Day](https://dmccreary.github.io/robot-day/)
+
+This is our collection of activities for a single-day robot event.  It features six "tables" where kids
+must each perform a task such as getting a motor to reverse direction.  
+At the end there is a "robot corral" where kids can interact will collision avoidance robots.
+
+![](./img/robot-day.webp)
+
+## Other STEM Resources
+
+### TED-X Youth Video
 
 [Can we use artificial intelligence to improve education?](https://www.youtube.com/watch?v=-ySgwSWCeqs)
 
