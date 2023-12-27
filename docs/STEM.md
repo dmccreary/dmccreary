@@ -10,7 +10,7 @@ This website contains lessons for students who are just begging to learn to prog
 
 Note that when we start, students are shown this map.  If they reach the end (not the finish flag) they they get a cool Python sticker.
 
-![Python Sticker](./img/python-sticker.jpg)
+![Python Sticker](./img/python-sticker-v2.jpg)
 
 ## CoderDojoTC MicroPython
 
@@ -28,6 +28,10 @@ Every month we are getting more and more page views and we continue to add new c
 ![MicroPython Journey Map](./img/micropython-map.png)
 
 This map shows the number of page views by country in 2023.
+
+## MicroSims
+
+
 
 ## Moving Rainbow
 
@@ -63,6 +67,8 @@ automate time-consuming tasks such as generating customized lesson plans for
 students.  It has grown to include a rich library of simulations for helping
 instructors demonstrate concepts.  The site also includes a link to the video
 of our presentation.
+
+![](./img/genai-for-teachers.png)
 
 ## Clocks and Watches
 
