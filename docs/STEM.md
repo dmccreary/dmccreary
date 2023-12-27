@@ -1,25 +1,33 @@
-# Dan McCreary STEM Resources
+# Dan McCreary's STEM Resources
 
-## CoderDojoTC Python
+## CoderDojoTC Python Website
 
 [CoderDojo Twin Cities Python Microsite](https://www.coderdojotc.org/python/)
 
-This microsite contains lessons for CoderDojo students to learn Python.  Python has been our most popular language.  We are always looking for Python Mentors that can volunteer to work with girls and disadvantage youth in these programs.  Most of the lessons run on the
-Trinket.com web site.  We are most proud of our Journey Map that helps student get
-oriented on their Python journey.
+This website contains lessons for students who are just begging to learn to program with Python.  Python has been our most popular language.  We are always looking for Python Mentors who can volunteer to work with girls and disadvantaged youth in these programs.  Most of the lessons run on the kid-save Trinket.com website.  We are most proud of our Journey Map which helps students get oriented on their Python journey.
 
-## CoderDojoTC MicroPython Microsite
+![Python Journey Map](./img/python-journey-map.png)
 
-[CoderDojo Twin Cities MicroPython Microsite](https://www.coderdojotc.org/micropython/)
+Note that when we start, students are shown this map.  If they reach the end (not the finish flag) they they get a cool Python sticker.
 
-This microsite contains lessons for CoderDojo students to learn MicroPython.  We put a focus on the Raspberrry Pi Pico and we are in the process of upgrading our 100+ legacy Arduino labs written in C to use MicroPython.  
-This site has hundreds of sample lesson plans and projects as well as extensive documetnation
+![Python Sticker](./img/python-sticker.jpg)
+
+## CoderDojoTC MicroPython
+
+[MicroPython Website](https://www.coderdojotc.org/micropython/)
+
+This website contains a huge number of lessons for students to learn physical computing with Python.  We put a focus on the Raspberry Pi Pico and we converted most of our 200+ legacy Arduino labs written in C to use MicroPython.  
+This site has hundreds of sample lesson plans and projects as well as extensive documentation
 on various kits such as a $19 collision avoidance robot using the RP2040 processor.
-Please let me know if you can help contribute example programs.
+Please let me know if you can help contribute sample programs.
 
-!!! Note
-    As of March of 2023 this is our most popular site with over five thousand page views each month.
-    Every month we are getting more and more page views and we continue to add new content.
+As of March of 2023, this site became our most popular site with over five thousand page views each month
+from students, teachers and mentors around the world!
+Every month we are getting more and more page views and we continue to add new content.
+
+![MicroPython Journey Map](./img/micropython-map.png)
+
+This map shows the number of page views by country in 2023.
 
 ## Moving Rainbow
 
@@ -30,13 +38,21 @@ out the answer is "a lot!".  This website has many examples of learning how to p
 Python using really fun bright LED strips.  We can use them as the basis for LED costumes,
 wall decorations, night lights, clocks, signs and many more projects.
 
+Although some of the content is a duplicate of the NeoPixel labs on the MicroPython site, we have placed
+all the relevant examples and added new detailed content for a class where every participant has these
+kits.  This $7 kit and this website has also been used for our Halloween costume [IoT Hackday](https://www.coderdojotc.org/iot-hackday/) and other special events.  This also means we have many mentors who are already familiar with these kits.
+
+![](./img/moving-rainbow-kit.jpg)
+
 ## Robot Faces
 
 [Robot Faces Website](https://dmccreary.github.io/robot-faces)
 
-With the advent of low-cost and bright OLED displays our students have wanted to add "faces" to our robots
-that show expressions like happiness, surprise, sleepyness, etc.  These labs use the new MicroPython
+With the advent of low-cost and bright OLED displays, our students have wanted to add "faces" to our robots
+that show expressions like happiness, surprise, sleepiness, etc.  These labs use the new MicroPython
 ellipse and poly functions introduced in 2023 to make drawing even complex shapes like eyebrows possible.
+
+![Robot Face](./img/robot-face.png)
 
 ## Generative AI For Teachers
 
