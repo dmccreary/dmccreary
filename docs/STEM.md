@@ -12,7 +12,7 @@ This website contains lessons for students who are just begging to learn to prog
 
 Note that when we start, students are shown this map.  If they reach the end (not the finish flag) they they get a cool Python sticker.
 
-![Python Sticker](./img/python-sticker-v2.jpg)
+![Python Sticker](./img/python-sticker-v2.webp)
 
 ### CoderDojoTC MicroPython
 
