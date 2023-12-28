@@ -1,4 +1,4 @@
-site_name: Dan McCreary Personal Microsite
+site_name: Dan McCreary's Personal Website
 nav:
   - Home: index.md
   - Videos: videos.md
@@ -18,9 +18,8 @@ nav:
   - Contact: contact.md
 repo_name: 'Go to GitHub'
 repo_url: 'https://github.com/dmccreary/dmccreary'
-# Standard ATC parameters from here down
-# Replace all the markup after the repo_url line with this file
-# This file was copied from 
+
+# Standard mkdocs parameters from here down
 edit_uri: 'blob/master/docs'
 copyright: 'Copyright &copy; 2020 Optum'
 theme:
