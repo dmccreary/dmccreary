@@ -12,7 +12,7 @@ This website contains lessons for students who are just begging to learn to prog
 
 Note that when we start, students are shown this map.  If they reach the end (not the finish flag) they they get a cool Python sticker.
 
-![Python Sticker](./img/python-sticker-v2.webp)
+![Python Sticker](./img/python-sticker-v2.webp){ width="200" }
 
 ### CoderDojoTC MicroPython
 
@@ -40,7 +40,7 @@ each classroom.  Most of our examples generate p5.js JavaScript programs that ca
 have extraordinary success teaching teachers to use generative AI to create these simulations but also generate
 detailed lesson plans that are grade-specific using this approach.
 
-![](./img/wave-of-microsims.webp)
+![Wave of Microsims](./img/wave-of-microsims.webp){ width="400" }
 
 
 ### Moving Rainbow
@@ -56,7 +56,7 @@ Although some of the content is a duplicate of the NeoPixel labs on the MicroPyt
 all the relevant examples and added new detailed content for a class where every participant has these
 kits.  This $7 kit and this website has also been used for our Halloween costume [IoT Hackday](https://www.coderdojotc.org/iot-hackday/) and other special events.  This also means we have many mentors who are already familiar with these kits.
 
-![](./img/moving-rainbow-kit.jpg)
+![Moving Rainbow Kit](./img/moving-rainbow-kit.jpg){ width="400" }
 
 ### Robot Faces
 
@@ -66,7 +66,7 @@ With the advent of low-cost and bright OLED displays, our students have wanted t
 that show expressions like happiness, surprise, sleepiness, etc.  These labs use the new MicroPython
 ellipse and poly functions introduced in 2023 to make drawing even complex shapes like eyebrows possible.
 
-![Robot Face](./img/robot-face.png)
+![Robot Face](./img/robot-face.png){ width="400" }
 
 ### Generative AI For Teachers
 
@@ -78,7 +78,7 @@ students.  It has grown to include a rich library of simulations for helping
 instructors demonstrate concepts.  The site also includes a link to the video
 of our presentation.
 
-![Generative AI for Teachers](./img/genai-for-teachers.png)
+![Generative AI for Teachers](./img/genai-for-teachers.png){ width="400" }
 
 ### Clocks and Watches
 
