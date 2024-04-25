@@ -1,5 +1,9 @@
 # Dan McCreary Videos 
 
+## TedX Talk: AI in Education
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ySgwSWCeqs?si=Okju1iBccNnz3mxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Graph+AI Summit
 
 This video was presented in October of 2021 at the Graph+AI Summit in San Francisco, CA
