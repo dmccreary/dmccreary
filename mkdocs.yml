@@ -7,6 +7,7 @@ nav:
   - AI Hardware: ai-hardware.md
   - STEM: stem.md
   - Books: books.md
+  - Articles: articles.md
   - VLSI Hardware: hardware.md
   - Personal Knowledge Graphs: pkg.md
   - Presentations: presentations.md
@@ -21,7 +22,6 @@ repo_url: 'https://github.com/dmccreary/dmccreary'
 
 # Standard mkdocs parameters from here down
 edit_uri: 'blob/master/docs'
-copyright: 'Copyright &copy; 2020 Optum'
 theme:
   name: material
   feature:

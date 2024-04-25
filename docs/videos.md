@@ -4,11 +4,11 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ySgwSWCeqs?si=Okju1iBccNnz3mxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Graph+AI Summit
+## TigerGraph Graph+AI Summit Keynote
 
 This video was presented in October of 2021 at the Graph+AI Summit in San Francisco, CA
 
-[The Intersection of Learning, Knowledge and Language](https://info.tigergraph.com/graph-ai-summit-fall-session-dan-mccreary)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atrLCuKm3sI?si=BHjWs2pW-La2d7f9&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Connecting Healthcare
 
@@ -43,3 +43,32 @@ This video was taken from the GraphConnect Conference on September 20 of 2019 in
 ## NoSQL Now! - 2013
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ms4dHPgNPUQ?si=ASxYn_COTX8KsDFV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The Robo CEO
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qp5TooW9A?si=rSYnyxSQTbX-q1nB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Applied AI Meeting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zGq_XzLhq0s?si=CGQGYTMDA2r5aNtr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## MemCon Enterprise Knowledge Graphs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cPrvnX2JBH8?si=b6rGgpiO7-wOxU4L&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Recorded in March of 2023
+
+Enterprise knowledge graphs (EKGs) offer the ability to store large connected datasets in memory for fast traversal using simple pointer-hopping instructions.  However, keeping hundreds or thousands of cores fed with traversal data has become one of the key challenges for artificial intelligence and analytics.  
+Despite the exponential growth in graph databases, we have yet to see hardware tuned to graph analytics workloads.  In this session, we will review the requirements for EKGs and provide a roadmap of how new memory hardware can be used to solve EKG challenges.
+
+# Exploring Complexity: How Graphs Data Science is Pushing Complexity
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s-5tJxodg4M?si=JF0dXoXLDADGj6qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Nov 11, 2021
+
+## Shorts
+
+[Code Savvy at the Maker Faire](https://www.youtube.com/shorts/gzqWSoRQ7Gg) May 30th, 2015 at the Minnesota State Fair Grounds
+
+[Shorts on my YouTube Channel](https://www.youtube.com/@DanMcCreary/shorts)
