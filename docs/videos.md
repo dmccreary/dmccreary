@@ -46,7 +46,13 @@ This video was taken from the GraphConnect Conference on September 20 of 2019 in
 
 ## The Robo CEO
 
+**Recording Date:** April 22, 2021
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0Qp5TooW9A?si=rSYnyxSQTbX-q1nB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In this episode of the Chaos Orchestra podcast, Dan McCreary explores the concept of the "Robot CEO," where AI systems, particularly knowledge graphs, integrate with human decision-making to enhance business operations. Dan discusses the current limitations and future potential of AI in enterprise settings, predicting the increasing adoption of knowledge graphs, the standardization of graph query languages, and the integration of machine learning to drive innovation and scalability. He also addresses the cultural and strategic shifts necessary for companies to stay competitive in a rapidly evolving technological landscape, emphasizing the transformative power of connected data and AI-assisted decision-making.
+
+[Transcript](./transcripts/the-robo-ceo.md) 
 
 ## Applied AI Meeting
 
