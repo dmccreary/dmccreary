@@ -1,22 +1,29 @@
-# Dan McCreary Podcast
-[YouTube](https://www.youtube.com/watch?v=b0Qp5TooW9A)
+# The RoboCEO
+
+This podcast was part of the [Chaos Orchestra](https://www.youtube.com/@chaosorchestra8927) series of podcasts hosted by [Boris Shalumov](https://www.linkedin.com/in/boris-shalumov-86b5ba100/).
+
+[YouTube Recording of Podcast](https://www.youtube.com/watch?v=b0Qp5TooW9A)
 
 **Recording Date:** Apr 22, 2021
 
-## Chapters
+## Summary
+
+In this episode of the Chaos Orchestra podcast, Dan McCreary explores the concept of the "Robot CEO," where AI systems, particularly knowledge graphs, integrate with human decision-making to enhance business operations. Dan discusses the current limitations and future potential of AI in enterprise settings, predicting the increasing adoption of knowledge graphs, the standardization of graph query languages, and the integration of machine learning to drive innovation and scalability. He also addresses the cultural and strategic shifts necessary for companies to stay competitive in a rapidly evolving technological landscape, emphasizing the transformative power of connected data and AI-assisted decision-making.
+
+## Sections
 
 Here are eight chapter headings for the podcast:
 
 1.  [Introduction to the Robot CEO Concept](#introduction-to-the-robot-ceo)
-2.  **The Role of AI in Decision-Making**
-3.  **Exploring Knowledge Graphs and Their Impact**
-4.  **Scalability and the Future of Enterprise Systems**
-5.  **Integrating Machine Learning with Knowledge Graphs**
-6.  **The Evolution of Graph Query Languages**
-7.  **The Cultural Shift Towards AI and Scalability**
-8.  **Future Predictions and the Path to the Robot CEO**
+2.  [Modeling and Chaos](#modeling-and-chaos)
+3.  [Better Decisions](#better-decisions)
+4.  [The Value of Collective Intelligence](#the-value-of-collective-intelligence)
+5.  [Symbiosis of the CEO and AI](#symbiosis-of-the-ceo-and-ai)
+6.  [Explainability](#explainability)
+7.  [Combining Machine Learning and Knowledge Graphs](#combining-machine-learning-and-knowledge-graphs)
+8. [Fear of Adopting New Technologies](#fear-of-adopting-new-technologies)
+8. [Predicting Time to the Intelligent Organization](#predicting-time-to-the-intelligent-organization)
 
-4o
 
 [Music]
 
@@ -38,7 +45,7 @@ So, we do not need machines to mimic human intelligence to achieve superior resu
 
 Today, we're going to talk about how a system like that could look and what opportunities and challenges it will bring. Our guest today is Dan McCreary, a lead thinker and one of the most inspiring people in the knowledge graph space. He is also the author of the article "The God Graph." Dan, can you explain what the God Graph actually is?
 
-**Dan McCreary:** What was really inspiring about this concept is my background in physics and my interest in following the developments at CERN. There was a journalist who called the Higgs Boson the "God particle," and it became a very popular meme. The idea behind it was to find one particle that could create a unifying principle, tying a lot of concepts together. If they could discover this particle, they could eliminate all the other theories and have a unifying force.
+**Dan McCreary:** What was really inspiring about this concept is my background in physics and my interest in following the developments at CERN. There was a journalist who called the Higgs-Boson the "God particle," and it became a very popular meme. The idea behind it was to find one particle that could create a unifying principle, tying a lot of concepts together. If they could discover this particle, they could eliminate all the other theories and have a unifying force.
 
 That's what I was trying to do with the term "God Graph" — to bring together a lot of ideas around knowledge graphs and systems thinking. I have several friends who are really good systems thinkers, and I've always thought of it as a weakness of mine that I didn't study systems thinking much. What's important about this too is the focus on ethical considerations and what we call externalities.
 
@@ -54,7 +61,7 @@ The God Graph was this idea of what would happen if we started to model and simu
 
 That's the type of thinking I want our organizational strategists to take into account.
 
-## Modeling Chaos
+## Modeling and Chaos
 
 **Host:** You've described the consequences and the impact that we cannot calculate or predict because of this chaos that is not modeled outside our company. Aren't some companies too confident in their models within their company? There could still be the same butterfly effect within the company. Maybe we're just not able to see it, but there's information or knowledge passed from an employee to their manager and then from that manager to another, abstracted over the hierarchies and usually reduced to some KPIs. These KPIs often don't consider every detail, and this is where we lose information. What do you think about the chaos within and the butterfly effect within an enterprise?
 
@@ -68,9 +75,9 @@ What we cannot predict are breakthroughs and insights in certain innovations. On
 
 So, you don't get a linear growth in innovation because of these ideas. The butterfly effect makes it difficult to predict the impact of innovation. Most of this innovation happens in software. While hardware continues to improve, we cannot predict insights in algorithms, machine learning, and AI, especially in NLP innovations like BERT and GPT-3. I've been using GPT-3 to create outlines for my blogs, and it's just phenomenal.
 
-What's interesting is to think through the general strategic direction of these innovations and realize that they affect how CIOs and CEOs do their strategy. Strategy is effectively a statement of your organizational goals—where you want to go. The Robo-CEO's job is not just to set that strategy but to monitor all the tasks we can do to reallocate resources so we can move in that direction.
+What's interesting is to think through the general strategic direction of these innovations and realize that they affect how CIOs and CEOs do their strategy. Strategy is effectively a statement of your organizational goals—where you want to go. The RoboCEO's job is not just to set that strategy but to monitor all the tasks we can do to reallocate resources so we can move in that direction.
 
-This is where the enterprise knowledge graph can provide feedback. A lot of systems thinking is about feedback. Many CEOs write a huge document that says, "Here's our strategy for the next year," and then they throw it over the wall and say, "Good luck." But they can't monitor what's really going on at the fine-grained level. That's where I think the relationship between the Robo-CEO and the knowledge graph comes into play—to start getting that feedback and using it to constantly change your strategy to ensure your organization is going in the right direction.
+This is where the enterprise knowledge graph can provide feedback. A lot of systems thinking is about feedback. Many CEOs write a huge document that says, "Here's our strategy for the next year," and then they throw it over the wall and say, "Good luck." But they can't monitor what's really going on at the fine-grained level. That's where I think the relationship between the RoboCEO and the knowledge graph comes into play—to start getting that feedback and using it to constantly change your strategy to ensure your organization is going in the right direction.
 
 ## Better Decisions
 
@@ -100,17 +107,17 @@ So, let’s assume that some of the work done on StratML does get converted so t
 
 Other organizations have much better centralized control, where they have a big organizational strategy, hold strategy meetings, and everyone brainstorms and aligns their actions to that strategy. What if a subgraph in our knowledge graph represented those strategies? What if we could align all activities with those strategies and provide feedback and reward systems accordingly?
 
-Remember, our brains have constant feedback loops. If we’re hungry and we eat, we feel satiated and no longer hungry. We don’t have those feedback systems in organizations. So, the first thing we need to do to build this Robo-CEO is to model our organizational goals and strategies. The second thing is to have sensors—just like our fingers, ears, and eyes—to sense what’s going on in our organization. We don’t need raw data; we need to create information from that data, classify it, and then provide feedback systems.
+Remember, our brains have constant feedback loops. If we’re hungry and we eat, we feel satiated and no longer hungry. We don’t have those feedback systems in organizations. So, the first thing we need to do to build this RoboCEO is to model our organizational goals and strategies. The second thing is to have sensors—just like our fingers, ears, and eyes—to sense what’s going on in our organization. We don’t need raw data; we need to create information from that data, classify it, and then provide feedback systems.
 
 For instance, if you want to go in a certain direction, but we see that strategy is not working or that a business unit has its own conflicting ideas, we need to realign things. I should mention that I work for a company with very decentralized control, so I see these issues all the time. Sometimes it feels like an army marching across a continent with everyone walking in random directions.
 
-The Robo-CEO is something we desperately need to align many internal company functions, but we also need to ensure it aligns with our social responsibility goals. However, it will take time to get there.
+The RoboCEO is something we desperately need to align many internal company functions, but we also need to ensure it aligns with our social responsibility goals. However, it will take time to get there.
 
 ## Symbiosis of the CEO and AI
 
 **Host:** The idea of the Robot CEO is not just to use AI to replace the CEO, but to create a symbiosis where the human CEO is supported by an AI system. The AI could process huge amounts of information, both from within and outside the company, and handle unstructured data. So, Dan, what do you think? How might this symbiosis work, what challenges could arise, and how could it be implemented?
 
-**Dan McCreary:** There’s a lot to consider here. When we think about the scalability of a Robo-CEO, it’s important to note that human beings have limited scalability. We can’t monitor every log feed of every operation and every code check-in. The CEO needs a cognitive assistant they can have a dialogue with, to get feedback.
+**Dan McCreary:** There’s a lot to consider here. When we think about the scalability of a RoboCEO, it’s important to note that human beings have limited scalability. We can’t monitor every log feed of every operation and every code check-in. The CEO needs a cognitive assistant they can have a dialogue with, to get feedback.
 
 The idea is not just one but a series of cognitive assistants that populate an executive’s dashboard. Whenever we do a knowledge graph project, we perform a cost-benefit analysis. Costs are easy to measure: servers, software, people to load the data. Productivity of knowledge workers can also be measured: if a call center has to log into 15 different systems, the average phone call might take an hour. But if they have all the knowledge in front of them and a single view of the customer that displays in 100 milliseconds, those calls could take just five minutes, and most importantly, customer satisfaction would dramatically increase.
 
@@ -126,7 +133,7 @@ It’s a discovery process, and I like to call that "strategic serendipity." Jus
 
 Deep learning neural networks alone have almost zero explainability. Knowledge graphs, on the other hand, often include a subgraph known as a semantic concept graph. This subgraph contains concepts that have ideally been curated by human beings. In healthcare, for example, we have about 3.4 million concepts in our knowledge graph—every drug, symptom, disease, procedure, billing code, and definition related to a patient and their condition.
 
-**Dan McCreary:** So, when you traverse that concept graph, you accumulate a series of definitions as you move through it, and you can see the path that was taken. That path provides a basis for explainability. For example, if a patient requests a very expensive drug or procedure, we have something called "prior authorization." A good example is infertility treatment, such as in vitro fertilization (IVF), which can cost around $20,000. We want to ensure that the patient has done all the necessary due diligence before authorizing such an expensive procedure. We want to make sure they've been seeing an infertility specialist for at least a year before moving forward.
+So, when you traverse that concept graph, you accumulate a series of definitions as you move through it, and you can see the path that was taken. That path provides a basis for explainability. For example, if a patient requests a very expensive drug or procedure, we have something called "prior authorization." A good example is infertility treatment, such as in vitro fertilization (IVF), which can cost around $20,000. We want to ensure that the patient has done all the necessary due diligence before authorizing such an expensive procedure. We want to make sure they've been seeing an infertility specialist for at least a year before moving forward.
 
 If we authorize the treatment, there's no need for an explanation—people are generally satisfied with that outcome. But when we deny the treatment, we have to provide a legally binding explanation, reviewed by our attorneys, to justify why the request was denied. This process is very time-consuming and expensive, which makes explainability in healthcare incredibly important.
 
@@ -138,9 +145,9 @@ In this architecture, the knowledge graph allows us to traverse it and create a 
 
 This is a continual process, and we spend millions of dollars every year trying to explain decisions in healthcare. AI is only getting slightly better at explaining these decisions—not nearly as fast as we’d like, but we’re making progress. Knowledge graphs are central to building this explainability process.
 
-## Combining LLMs and Knowledge Graphs
+## Combining Machine Learning and Knowledge Graphs
 
-**Host:** So, to achieve explainability, you basically need a combination of symbolic AI and statistical AI, creating a system that aggregates knowledge from across the enterprise. It’s a blend of different approaches that allow you to gather voices from across the organization, similar to a social network, and integrate them into decision-making. But let me play the devil’s advocate here—how do you bring in the knowledge that resides in the heads of experts who may have more information than any database? These are people who have been with the company for decades. How do you make all this information accessible for the CEO and the Robo-CEO to use in making informed decisions?
+**Host:** So, to achieve explainability, you basically need a combination of symbolic AI and statistical AI, creating a system that aggregates knowledge from across the enterprise. It’s a blend of different approaches that allow you to gather voices from across the organization, similar to a social network, and integrate them into decision-making. But let me play the devil’s advocate here—how do you bring in the knowledge that resides in the heads of experts who may have more information than any database? These are people who have been with the company for decades. How do you make all this information accessible for the CEO and the RoboCEO to use in making informed decisions?
 
 **Dan McCreary:** One metaphor I often use is that of Wikipedia. Why do we trust Wikipedia? The answer is that a lot of people are constantly watching Wikipedia to ensure that the knowledge it contains is trustworthy. When Wikipedia first started, I was very involved, contributing around 15,000 edits over the first few years to understand how it works.
 
@@ -164,7 +171,7 @@ So, who’s responsible for setting this culture? It’s the CEO who must take t
 
 In contrast, companies driven by short-term thinking, financial targets, and cost-cutting measures are less likely to succeed in the long term. They lack the same ability to innovate and scale as companies like Apple, Google, and Facebook because their corporate culture doesn’t support it. This is why the economy has seen such growth in these tech giants over the last decade—they’ve been able to scale because of their culture.
 
-Host: And most of these successful companies have a knowledge graph behind the scenes, right?
+**Host:** And most of these successful companies have a knowledge graph behind the scenes, right?
 
 **Dan McCreary:** Absolutely. That’s a very good point. It’s not just about having a knowledge graph; it’s about the scalability of those systems. Amazon, for example, has built their shopping carts on key-value stores, which are designed for scalability. LinkedIn, Facebook, and of course, Google’s knowledge graph are all about not just one graph in one department but about enterprise-wide knowledge and its connectivity.
 
@@ -188,13 +195,15 @@ With better hardware and a standardized query language, we’ll see a surge in t
 
 We should be cautious about allowing too much control over large knowledge graphs to fall into the hands of a few companies. While Amazon is currently leading in graph-based cloud solutions, there’s still room for innovation. I expect the release of GQL and the continued development of graph-specific hardware to open up the market to a broader range of competitors.
 
-Host: How far away are we from having a Robot CEO that can see through the space and time of an enterprise, aggregate all this knowledge, and make intelligent decisions while being fully aware of the consequences?
+## Predicting Time to the Intelligent Organization
+
+**Host:** How far away are we from having a Robot CEO that can see through the space and time of an enterprise, aggregate all this knowledge, and make intelligent decisions while being fully aware of the consequences?
 
 **Dan McCreary:** There’s a famous quote by Paul Saffo: "Never confuse a clear view with a short distance." It means that just because you can see the direction the industry is going doesn’t mean the journey will be quick or straightforward.
 
 I always resist giving exact timelines because innovation is unpredictable. For instance, no one could have predicted the breakthroughs with AlexNet, BERT, or GPT-3. What I can tell you is that knowledge graphs are getting to a point where we can expect some incredible innovations in the next few years.
 
-A lot of the discussions we’re having about the Robo-CEO and the integration of strategy into our knowledge graphs will be central to these innovations. The trend is clear: graphs are going to get bigger, faster, easier to use, and more specialized. They will continue to grow in complexity and specialization, with subgraphs focusing on different aspects of the enterprise, such as security, customer data, operations, and more.
+A lot of the discussions we’re having about the RoboCEO and the integration of strategy into our knowledge graphs will be central to these innovations. The trend is clear: graphs are going to get bigger, faster, easier to use, and more specialized. They will continue to grow in complexity and specialization, with subgraphs focusing on different aspects of the enterprise, such as security, customer data, operations, and more.
 
 By next year, I expect at least a dozen companies will be offering solutions based on a standardized Labeled Property Graph (LPG) query language like GQL. This will allow for more competition and innovation in the graph database space. We’ll also see software packages that integrate machine learning directly with graph databases. For example, Neo4j’s graph machine learning library is a fantastic example of this integration, allowing data scientists to seamlessly build embeddings for every vertex in the graph.
 
@@ -208,7 +217,7 @@ Beyond that, looking five years into the future, it’s challenging to predict. 
 
 As we move toward this future, knowledge graphs will play a crucial role in predicting which skills employees need to be most effective, which projects they should work on, and how to mentor and develop talent within an organization. The end goal is to create a seamless integration between human intelligence and AI, where the AI understands and assists with complex decision-making, ultimately leading to a more efficient and innovative enterprise.
 
-That’s my long-term prediction—knowledge graphs will continue to grow in complexity, specialization, and integration with AI, leading to a future where the Robo-CEO is not just a concept but a reality.
+That’s my long-term prediction—knowledge graphs will continue to grow in complexity, specialization, and integration with AI, leading to a future where the RoboCEO is not just a concept but a reality.
 
 
 
