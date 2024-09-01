@@ -3,7 +3,24 @@
 
 **Recording Date:** Apr 22, 2021
 
+## Chapters
+
+Here are eight chapter headings for the podcast:
+
+1.  [Introduction to the Robot CEO Concept](#introduction-to-the-robot-ceo)
+2.  **The Role of AI in Decision-Making**
+3.  **Exploring Knowledge Graphs and Their Impact**
+4.  **Scalability and the Future of Enterprise Systems**
+5.  **Integrating Machine Learning with Knowledge Graphs**
+6.  **The Evolution of Graph Query Languages**
+7.  **The Cultural Shift Towards AI and Scalability**
+8.  **Future Predictions and the Path to the Robot CEO**
+
+4o
+
 [Music]
+
+## Introduction to the Robot CEO
 
 Host: Welcome to Chaos Orchestra, Episode 1: The Robot CEO.
 
@@ -37,6 +54,8 @@ The God Graph was this idea of what would happen if we started to model and simu
 
 That's the type of thinking I want our organizational strategists to take into account.
 
+## Modeling Chaos
+
 **Host:** You've described the consequences and the impact that we cannot calculate or predict because of this chaos that is not modeled outside our company. Aren't some companies too confident in their models within their company? There could still be the same butterfly effect within the company. Maybe we're just not able to see it, but there's information or knowledge passed from an employee to their manager and then from that manager to another, abstracted over the hierarchies and usually reduced to some KPIs. These KPIs often don't consider every detail, and this is where we lose information. What do you think about the chaos within and the butterfly effect within an enterprise?
 
 **Dan McCreary:** That's a very good point. A lot of this has to do with randomness and uncertainty in our environments. You mentioned that we are overconfident in our models, and you're absolutely right. COVID-19 is a really good example of how we had all these healthcare models, and they completely collapsed when COVID emerged because the rules were different.
@@ -53,6 +72,8 @@ What's interesting is to think through the general strategic direction of these 
 
 This is where the enterprise knowledge graph can provide feedback. A lot of systems thinking is about feedback. Many CEOs write a huge document that says, "Here's our strategy for the next year," and then they throw it over the wall and say, "Good luck." But they can't monitor what's really going on at the fine-grained level. That's where I think the relationship between the Robo-CEO and the knowledge graph comes into play—to start getting that feedback and using it to constantly change your strategy to ensure your organization is going in the right direction.
 
+## Better Decisions
+
 **Host:** CEOs make decisions every day, sometimes dozens of decisions that impact thousands, or even more, people inside and outside the enterprise. How are CEOs making these decisions now, and how can enterprise knowledge graphs and other technologies help them make better decisions or at least be more aware of the consequences and impact?
 
 **Dan McCreary:** Great question. I would say I’m not the world’s leading thinker on what I call "strategy modeling," but I have friends who are some of the world’s leading thinkers in this area. Much of this goes back to work done by people in U.S. federal agencies who were trying to research how to make a federal agency’s strategy more transparent to stakeholders. A group of people said, "Well, what we first need to do is create a model of what that strategy is." A strategy breaks down into a set of sub-components, objectives, and things like that. It’s often written in a way that’s a document, but it’s not easily decomposable into a graph.
@@ -66,6 +87,8 @@ What an enterprise knowledge graph can do is provide ongoing feedback. When I th
 There have been discussions about using technologies like blockchain to verify that knowledge is coming from a trustworthy source. For example, in the open linked data movement, publishing linked data as RDF allows it to be linked precisely, which reduces the huge costs of exchanging this knowledge. Data.gov was a big movement for a long time, aimed at getting federal agencies not just to throw out a spreadsheet of their data but to publish it in a way that we could ingest into our knowledge graphs and have it be meaningful and impactful for our predictions.
 
 We go back and forth on this, but with the new generation of hardware coming out, it’s going to be absolutely incredible. There will be even more demand for precise, clean data, and there will be an opportunity for entrepreneurs to normalize and make this data consistent in a linked format, and then provide it as a service. We can then find vendors we trust, who have been doing the cleanup and verifying the veracity and consistency of this data.
+
+## The Value of Collective Intelligence
 
 **Host:** We have a lot of data within companies and enterprises, and now we have the technology to access, process, and evaluate this data, whether it’s structured or unstructured. We have NLP, computer vision, and a huge amount of power to access and evaluate results. But with great power comes great responsibility. There’s also the potential for misuse, as we've seen with social networks where the same technologies used to spread ideas can also spread misinformation.
 
@@ -83,6 +106,8 @@ For instance, if you want to go in a certain direction, but we see that strategy
 
 The Robo-CEO is something we desperately need to align many internal company functions, but we also need to ensure it aligns with our social responsibility goals. However, it will take time to get there.
 
+## Symbiosis of the CEO and AI
+
 **Host:** The idea of the Robot CEO is not just to use AI to replace the CEO, but to create a symbiosis where the human CEO is supported by an AI system. The AI could process huge amounts of information, both from within and outside the company, and handle unstructured data. So, Dan, what do you think? How might this symbiosis work, what challenges could arise, and how could it be implemented?
 
 **Dan McCreary:** There’s a lot to consider here. When we think about the scalability of a Robo-CEO, it’s important to note that human beings have limited scalability. We can’t monitor every log feed of every operation and every code check-in. The CEO needs a cognitive assistant they can have a dialogue with, to get feedback.
@@ -93,7 +118,9 @@ What’s hard to measure is the idea of the butterfly effect—the impact of inn
 
 It’s a discovery process, and I like to call that "strategic serendipity." Just like the name "Chaos Orchestra," which combines the ideas of uncontrolled chaos and orchestrated order, strategies to support serendipitous discoveries require holding oppositional concepts in mind. We’re creating a platform that allows for innovation, even though we cannot predict it.
 
-Host: We’ve made huge advancements in AI in the past decades, but there’s still a problem with explainability. AI recommendations produced by neural networks often come from a "black box" that takes input and gives results without clear reasoning. This is a challenge for CEOs who have to make strategic decisions, like restructuring a company or deciding where to build a new plant. These decisions have a huge impact on the company’s future. What would it take for a CEO to trust a system like this, and what’s the role of knowledge graphs in building that trust?
+## Explainability
+
+**Host:** We’ve made huge advancements in AI in the past decades, but there’s still a problem with explainability. AI recommendations produced by neural networks often come from a "black box" that takes input and gives results without clear reasoning. This is a challenge for CEOs who have to make strategic decisions, like restructuring a company or deciding where to build a new plant. These decisions have a huge impact on the company’s future. What would it take for a CEO to trust a system like this, and what’s the role of knowledge graphs in building that trust?
 
 **Dan McCreary:** Great question. Knowledge graph architecture is a core piece of the explainability puzzle. To visualize this, consider a deep learning neural network like GPT-3, which has 175 billion parameters. Text comes in, it goes through the network, and generates output. But if you ask how or why it generated that output, it’s very difficult to explain.
 
@@ -111,9 +138,11 @@ In this architecture, the knowledge graph allows us to traverse it and create a 
 
 This is a continual process, and we spend millions of dollars every year trying to explain decisions in healthcare. AI is only getting slightly better at explaining these decisions—not nearly as fast as we’d like, but we’re making progress. Knowledge graphs are central to building this explainability process.
 
-Host: So, to achieve explainability, you basically need a combination of symbolic AI and statistical AI, creating a system that aggregates knowledge from across the enterprise. It’s a blend of different approaches that allow you to gather voices from across the organization, similar to a social network, and integrate them into decision-making. But let me play the devil’s advocate here—how do you bring in the knowledge that resides in the heads of experts who may have more information than any database? These are people who have been with the company for decades. How do you make all this information accessible for the CEO and the Robo-CEO to use in making informed decisions?
+## Combining LLMs and Knowledge Graphs
 
-Dan McCreary: One metaphor I often use is that of Wikipedia. Why do we trust Wikipedia? The answer is that a lot of people are constantly watching Wikipedia to ensure that the knowledge it contains is trustworthy. When Wikipedia first started, I was very involved, contributing around 15,000 edits over the first few years to understand how it works.
+**Host:** So, to achieve explainability, you basically need a combination of symbolic AI and statistical AI, creating a system that aggregates knowledge from across the enterprise. It’s a blend of different approaches that allow you to gather voices from across the organization, similar to a social network, and integrate them into decision-making. But let me play the devil’s advocate here—how do you bring in the knowledge that resides in the heads of experts who may have more information than any database? These are people who have been with the company for decades. How do you make all this information accessible for the CEO and the Robo-CEO to use in making informed decisions?
+
+**Dan McCreary:** One metaphor I often use is that of Wikipedia. Why do we trust Wikipedia? The answer is that a lot of people are constantly watching Wikipedia to ensure that the knowledge it contains is trustworthy. When Wikipedia first started, I was very involved, contributing around 15,000 edits over the first few years to understand how it works.
 
 What’s important about Wikipedia is the continual review process, where social networks of contributors work together. For every 9,999 people trying to improve Wikipedia, there’s usually one person trying to disrupt it or add misinformation. Because of the overwhelming majority of good actors, we have a relatively high probability that Wikipedia’s content is accurate. This doesn’t mean every page is correct all the time, but it does mean there’s a strong likelihood that bad information will be corrected quickly.
 
@@ -121,9 +150,11 @@ We have similar processes within healthcare. Research articles are peer-reviewed
 
 Within an enterprise, the challenge is to continually build better knowledge graphs that can incorporate and validate this expert knowledge, ensuring that it can be trusted for decision-making. It’s a balancing act between ensuring that the information is accessible and trustworthy while also protecting it from misuse.
 
-Host: Human beings are complex, and fear is a fundamental emotion that can prevent the adoption of new technologies, especially when it comes to something as potentially threatening as knowledge graphs. There’s a cultural aspect to this—some people might fear that making everything transparent and accessible might diminish their importance or change their role. How do you address this fear and ensure that knowledge graphs are adopted within a corporate culture?
+## Fear of Adopting New Technologies
 
-Dan McCreary: That’s a crucial point. Corporate culture plays a huge role in the adoption of new technologies. In the Bay Area, when you work with companies like Apple, Google, Amazon, Facebook, and Twitter, you see that their entire existence is predicated on the ability to scale. Everything they do—their culture, hiring, onboarding, and training—focuses on scalability.
+**Host:** Human beings are complex, and fear is a fundamental emotion that can prevent the adoption of new technologies, especially when it comes to something as potentially threatening as knowledge graphs. There’s a cultural aspect to this—some people might fear that making everything transparent and accessible might diminish their importance or change their role. How do you address this fear and ensure that knowledge graphs are adopted within a corporate culture?
+
+**Dan McCreary:** That’s a crucial point. Corporate culture plays a huge role in the adoption of new technologies. In the Bay Area, when you work with companies like Apple, Google, Amazon, Facebook, and Twitter, you see that their entire existence is predicated on the ability to scale. Everything they do—their culture, hiring, onboarding, and training—focuses on scalability.
 
 At Amazon, for example, it’s a fireable offense to put any data in a relational database that has to scale. The reason is that they’ve had so many experiences where older relational databases, designed to bring everything into memory and then compare data in two columns to resolve a relationship, just don’t work at scale. If you have a small accounting system keeping track of a general ledger, that’s fine; you get an exception. But when it comes to scaling, those old systems can’t keep up.
 
