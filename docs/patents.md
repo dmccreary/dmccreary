@@ -15,8 +15,9 @@ I think that if Optum wanted to, they could get a lot of money defending this pa
 
 * [Machine learning techniques for generating recalculation determinations for predicted risk scores](https://patents.google.com/patent/US20220327404A1/en?q=(Daniel+George+McCreary))
 
+## Ontology Publishing
+* [ONTOLOGY CHANGE GRAPH PUBLISHING SYSTEM](https://trea.com/information/ontology-change-graph-publishing-system/patentapplication/a298416e-c85d-4959-9ca9-5ea875069a8e)
 ## Other topics
 
 Schema Matching and Mapping
 
-Ontology Publishing
