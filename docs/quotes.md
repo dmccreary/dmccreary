@@ -55,3 +55,6 @@ occurs at the seams of technology domains.*
 
 This quote came about when I was interviewing David Cantor for a blog I was writing on machine learning hardware benchmarking.  He said it almost as an off-hand comment so I asked him if I could quote him.  I use this quote in many of my keynote speeches.
 
+## John Muir on the Connected Universe
+
+*When we try to pick out anything by itself, we find it hitched to everything else in the Universe.* - John Muir

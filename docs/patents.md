@@ -15,14 +15,19 @@ Today many companies use semantic search in many products.  They should all be g
 
 ## Patents Pending
 
-### Predictive Schema Mapping
+### Predictive Recommendation for Schema Mapping
+
+Inspired by the 1970 science fiction movie [Collossus: The Forbin Project](https://en.wikipedia.org/wiki/Colossus:_The_Forbin_Project), I have spent many hours pondering
+how I could automatically make two computers talk to each other.  The secret is matching metadata, and it is the inspiration for this important patent.
+
 **Publication number:** 20230229639<br/>
 **Type:** Application<br/>
 **Filed:** Jan 18, 2022<br/>
 **Publication Date:** Jul 20, 2023<br/>
 **Inventors:** Daniel G. McCREARY (St. Louis Park, MN), Joshua A. MEEKHOF (Grand Rapids, MI)<br/>
 **Application Number:** 17/577,807<br/>
-**US Patent Application Number:** #20230229639
+**US Patent Application Number:** #20230229639<br/>
+**International Classification:** G06F 16/21 (20060101); G06N 20/00 (20060101);
 
 This patent covers the process of using both deterministic rules and embeddings to suggest mappings between a new dataset schema and an existing canonical schema.  Today, anyone building a data warehouse on complex data knows how difficult and time consuming this task is.  This patent covers a process that I have been working on for over ten years, far before I joined Optum.
 
