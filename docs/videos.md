@@ -67,11 +67,26 @@ Recorded in March of 2023
 Enterprise knowledge graphs (EKGs) offer the ability to store large connected datasets in memory for fast traversal using simple pointer-hopping instructions.  However, keeping hundreds or thousands of cores fed with traversal data has become one of the key challenges for artificial intelligence and analytics.  
 Despite the exponential growth in graph databases, we have yet to see hardware tuned to graph analytics workloads.  In this session, we will review the requirements for EKGs and provide a roadmap of how new memory hardware can be used to solve EKG challenges.
 
-# Exploring Complexity: How Graphs Data Science is Pushing Complexity
+## Exploring Complexity: How Graphs Data Science is Pushing Complexity
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s-5tJxodg4M?si=JF0dXoXLDADGj6qA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Nov 11, 2021
+
+## Graph Storytelling
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_I-LsmOS31E?si=Yr2hgVT2Iqu6Dq87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[Link on YouTube](https://www.youtube.com/watch?v=_I-LsmOS31E)
+
+Imagine you work in a company with lots of different business units. And each of the business units
+make their own decisions about what new technology they use, and how they use it. 
+
+In that scenario, you have to work with them to explain these advanced technologies. If we can't explain it to nontechnical people, they're not interested.
+
+What experience shows is that using a series of stories for non-programmers such as finance people, marketing people, and health care executives, helps them understand the value of connected datasets.
+
+So, the questions that we'll try to answer is, what is storytelling? How does it help us explain things to a non-technical audience?
 
 ## Shorts
 
