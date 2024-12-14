@@ -3,7 +3,16 @@
 Here is a high-level summary of Dan McCreary's robot labs.
 The labs are spread over about 20 websites that each focus on a different topics of STEM, coding, data literacy and AI.
 
-## Beginning Python
+## 1. Robot Day
+
+[Robot Day Website](https://dmccreary.github.io/robot-day/)
+
+This website supports a single-day event at a school.  It puts a focus on low-cost hands-on labs to engage students
+in all the steps to build a $19 collision-avoidance robot.
+
+The site puts a focus on helping a school execute the event including ideas for logistics and promotion of a successful event as well as the event tables and labs.
+
+## 2. Beginning Python
 
 [Beginning Python](https://www.coderdojotc.org/python/)
 
@@ -13,7 +22,7 @@ This website contains lessons for students who are just begging to learn to prog
 
 Note that when we start, students are shown this map.  If they reach the end (not the finish flag) they they get a cool Python sticker.
 
-## MicroPython for Kids
+## 3. MicroPython for Kids
 
 [MicroPython Website](https://www.coderdojotc.org/micropython/)
 
@@ -30,7 +39,7 @@ Every month we are getting more and more page views and we continue to add new c
 
 This map shows the number of page views by country in 2023.
 
-## MicroSims
+## 4. MicroSims
 
 [MicroSims Website](https://dmccreary.github.io/microsims/)
 
@@ -41,7 +50,7 @@ detailed lesson plans that are grade-specific using this approach.
 
 ![Wave of Microsims](./img/wave-of-microsims.webp){ width="400" }
 
-## Moving Rainbow
+## 5. Moving Rainbow
 
 [Moving Rainbow Website](http://dmccreary.github.io/moving-rainbow)
 
@@ -56,7 +65,7 @@ kits.  This $7 kit and this website has also been used for our Halloween costume
 
 ![Moving Rainbow Kit](./img/moving-rainbow-kit.jpg){ width="400" }
 
-## Robot Faces
+## 6. Robot Faces
 
 [Robot Faces Website](https://dmccreary.github.io/robot-faces)
 
@@ -66,7 +75,7 @@ ellipse and poly functions introduced in 2023 to make drawing even complex shape
 
 ![Robot Face](./img/robot-face.png){ width="400" }
 
-## Generative AI For Teachers
+## 7. Generative AI For Teachers
 
 [Generative AI For Teachers Website](http://www.coderdojotc.org/chatgpt-for-teachers/)
 
@@ -78,7 +87,7 @@ of our presentation.
 
 ![Generative AI for Teachers](./img/genai-for-teachers.png){ width="400" }
 
-## Clocks and Watches
+## 8. Clocks and Watches with MicroPython
 
 [MicroPython Clocks and Watches Website](https://dmccreary.github.io/micropython-watch/)
 
@@ -88,27 +97,80 @@ You can program your own digital and analog watch faces as well as build clocks 
 synchronize with the time servers for accurate time.  They can even be used
 to display the current temperature, weather forecast and phases of the moon.
 
-## Robot Day
+## 9. STEM Robots
 
-[Robot Day](https://dmccreary.github.io/robot-day/)
+[STEM Robots](https://dmccreary.github.io/stem-robots/)
 
-This is our collection of activities for a single-day robot event.  It features six "tables" where kids
-must each perform a task such as getting a motor to reverse direction.  
-At the end there is a "robot corral" where kids can interact will collision avoidance robots.
 
-![](./img/robot-day.webp)
-## STEM Robots
+## 10, AI Racing League
 
-## Robot Day
+[AI Racing League](https://www.coderdojotc.org/ai-racing-league/)
 
-## AI Racing League
+This site provides resources for an AI Racing League event.
+It uses $300 cars powered by a Raspberry Pi with a video camera on a RC car chassis.  Student drive around the track 20 times and gather 20 thousand images of the lines on the track.  These images are set to a GPU server that trains
+an machine learning model to use the steering and throttle.  The model is
+then transferred back to the car to drive autonomously.
 
-## Moving Rainbow
+These events require senior mentors that are familiar with the Donkey Car, Python and machine learning.  The events work best with juniors and seniors in high school.
 
-## MicroPython Clock and Watches
+## 11. Beginning Electronics
 
-## Learning Graphs
+This site features generative AI resources for instructors
+that are teaching basic electronics at the junior high or
+high school level.  We assume each student will have access
+to around $20 of parts including basic electronics components 
+and a breadboard.  We also have MicroSimulations for schools
+that don't have the funding for these kits.
 
-## Graph Learning Management Systems
+[Beginning Electronics](https://dmccreary.github.io/circuits/)
 
-## Systems Thinking for Kids
+## 12. Learning Graphs
+
+This website contains resources teaching the concepts around Learning Graphs.
+Learning graphs are concept graphs that are used by AI agents
+to generate high quality lesson plans customized to the needs of
+students.  This course includes an extensive tutorial
+on how to use the vis.js JavaScript framework to create
+learning graph visualization and editing tools.
+
+[Learning Graphs](https://dmccreary.github.io/learning-graphs/)
+
+## 13, Graph Learning Management Systems
+
+[Graph Learning Management Systems](https://dmccreary.github.io/graph-lms/)
+
+## 14. Systems Thinking
+
+This course was originally designed for technologist that were
+getting involved in analysis of complex IT ecosystems.  We have
+extended it with examples so that the resources can also
+be used for teaching Systems THinking at the high-school level
+using interactive simulations.
+
+[Systems Thinking ](https://dmccreary.github.io/graph-systems-thinking/)
+
+## 15. AI Assisted Geometry
+
+This website contains resources to help teach a high-school level course on geometry.  We have created an extensive learning graph with the key concepts
+for a geometry course as well as many MicroSims that allow students
+to interactively explored these concepts.  We focus on helping
+teachers us generative AI to build and modify these MicroSims using
+well designed 2D and 3D geometry templates.
+
+[AI Assisted Geometry](https://dmccreary.github.io/geometry-course/)
+
+## 16. Signal Processing
+
+This website is designed to help both instructors and students who are interested in learning about signal processing. This website uses generative AI and encourages both instructors and students to use generative AI to create and modify content such as simulations and animations of signal processing concepts.
+
+
+[Signal Processing](https://dmccreary.github.io/signal-processing/)
+
+### Building Intelligent Textbooks with Mkdocs
+
+Mkdocs is an open source build framework wildly used to
+create documentation and lessons for instruction.  This
+is a guide for instructors building textbooks that
+are intelligent and can be quickly customized by AI agents.
+
+[Building Intelligent Textbooks with Mkdocs](https://dmccreary.github.io/mkdocs-for-intelligent-textbooks/)
