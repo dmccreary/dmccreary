@@ -1,14 +1,18 @@
 # Resume for Dan McCreary
 
-## Solution Architect | Author | Keynote Speaker
+## Retired AI Researcher | Solution Architect | Author | Keynote Speaker
 
-*Evangelist for Building Scale-Out Knowledge Graphs | Expert in AI and Systems Thinking*
+*Retired AI Researcher working in helping educational organizations
+embrace AI and intelligent textbooks*
 
-### My Next Role
+### Looking for Partners
 
-Dan is looking for a well-funded and rapidly growing company with products that are at the intersection of large-language models and enterprise knowledge graphs.  Dan believes this is a huge growth area and he has strong leadership skills in these technologies.
+Dan is looking for partners that are interested in
+using AI in education.  Dan believes that by combining
+precise learning graphs with AI that personalized intelligent textbooks
+can have huge impact on education.
 
-### About Me
+### About Dan
 
 Dan is a seasoned **Solution Architect** with a profound background in **Knowledge Representation for AI**. Dan has extensive experience in building the world’s largest **Enterprise Knowledge Graphs** for integrated member, customer, provider and patient records. Dan is passionate about helping organizations create precise, scalable models above tens of billions of vertices. My personal mission is to assist individuals and organizations in performing objective solution architecture analysis through the art of **storytelling**.
 
@@ -40,6 +44,10 @@ and architecture tradeoff analysis.
 - Thought leader for the adoption of Enterprise Knowledge Graphs
 - Founder of the [**NoSQL Now!**](https://www.dataversity.net/tag/nosql-now/) conference (now part of Dataversity)
 - Speaker at AI Hardware and advanced memory management conferences
+
+## LinkedIn 2024 Highlights
+
+![](./img/linkedin-highlights.png)
 
 ### Keynote Speaker
 

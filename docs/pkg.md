@@ -25,6 +25,8 @@ My blogs were turned into Chapter 14 of the book: Personal Knowledge Graphs: Met
 
 [Amazon Book](https://www.amazon.com/Personal-Knowledge-Graphs-PKGs-applications/dp/1839537019)
 
+[Abstract for my chapter 14](https://digital-library.theiet.org/doi/abs/10.1049/PBPC063E_ch14)
+
 You can read my chapter 14 here: [PKG Chapter 14](https://github.com/dmccreary/dmccreary/blob/master/PKG-Chapter-14.pdf) - this is the same content as my blogs but reformatted for the book.
 
 !!! Note
