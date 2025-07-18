@@ -4,7 +4,7 @@
 
 ### Python
 
-[Beginning Python](https://www.coderdojotc.org/python/)
+[Beginning Python](https://dmccreary.github.io/python/)
 
 This website contains lessons for students who are just begging to learn to program with Python.  Python has been our most popular language.  We are always looking for Python Mentors who can volunteer to work with girls and disadvantaged youth in these programs.  Most of the lessons run on the kid-save Trinket.com website.  We are most proud of our Journey Map which helps students get oriented on their Python journey.
 
@@ -16,7 +16,7 @@ Note that when we start, students are shown this map.  If they reach the end (no
 
 ### MicroPython
 
-[MicroPython Website](https://www.coderdojotc.org/micropython/)
+[MicroPython Website](https://dmccreary.github.io/learning-micropython/)
 
 This website contains a huge number of lessons for students to learn physical computing with Python.  We put a focus on the Raspberry Pi Pico and we converted most of our 200+ legacy Arduino labs written in C to use MicroPython.  
 This site has hundreds of sample lesson plans and projects as well as extensive documentation
@@ -54,7 +54,7 @@ wall decorations, night lights, clocks, signs and many more projects.
 
 Although some of the content is a duplicate of the NeoPixel labs on the MicroPython site, we have placed
 all the relevant examples and added new detailed content for a class where every participant has these
-kits.  This $7 kit and this website has also been used for our Halloween costume [IoT Hackday](https://www.coderdojotc.org/iot-hackday/) and other special events.  This also means we have many mentors who are already familiar with these kits.
+kits.  This $7 kit and this website has also been used for our Halloween costume [IoT Hackday](https://dmccreary.github.io/iot-hackday/) and other special events.  This also means we have many mentors who are already familiar with these kits.
 
 ![Moving Rainbow Kit](./img/moving-rainbow-kit.jpg){ width="400" }
 
