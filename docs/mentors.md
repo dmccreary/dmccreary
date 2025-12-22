@@ -9,6 +9,6 @@ We are all reflections of people that influence us.  Here are some of the people
 * [Howard Moscovitz](https://www.linkedin.com/in/howard-moscovitz-305815/)
 * [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) - I worked with Steve when we were both at NeXT Computer.
 * [Arun Batchu](https://www.linkedin.com/in/arunbatchu/) - Arun and I have worked together since 2006.  His views on Systems Thinking and Complex Adaptive Systems have had deep influence on my world views.
-* [Bill Estrem](https://www.fullernaples.com/tributes/William-Estrem)
+* [Bill Estrem](https://www.fullernaples.com/obituaries/William-Arnold-Bill-Estrem?obId=43046471)
 * [Kurt Cagle](https://www.linkedin.com/in/kurtcagle/) - Kurt introduced me to eXist-db and document stores.
 * [John Santelli](https://theorg.com/org/unitedhealth-group/org-chart/john-santelli) - I worked for John for almost 9 years at Optum.  John was the executive sponsor of my Healthcare Knowledge Graph project.
