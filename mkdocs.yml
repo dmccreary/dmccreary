@@ -39,3 +39,7 @@ markdown_extensions:
   - pymdownx.highlight:
       linenums: true
   - pymdownx.superfences
+extra:
+  schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
+  textbook_name: dmccreary
+  textbook_version: "1.0"
