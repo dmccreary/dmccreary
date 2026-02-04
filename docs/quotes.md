@@ -14,7 +14,7 @@ Management focuses on the day-to-day tasks of managing people, budgets and compl
 
 ### Knowledge Representation
 
-*Representation is the hardest part of AI.* 
+*The key to artificial intelligence has always been the representation.* 
 - Jeff Hawkins
 
 This quote guides most of my research in AI and knowledge representation.  You can think of this as a metaphor for the famous 1976 book by Niklaus Wirth:
