@@ -40,6 +40,9 @@ markdown_extensions:
       linenums: true
   - pymdownx.superfences
 extra:
+  analytics:
+    provider: google
+    property: G-EMCN6YMZEF
   schema: https://dmccreary.github.io/intelligent-textbooks/ns/textbook/v1
   textbook_name: dmccreary
   textbook_version: "1.0"
