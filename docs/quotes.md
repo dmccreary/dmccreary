@@ -72,3 +72,5 @@ Anyone can easily build a simple doghouse out of basic materials. However, you c
 *The Need for Architecture:* Creating massive systems requires an entirely different structural approach (like the arches in a Gothic cathedral), where a clever, non-linear design allows simple materials to achieve incredible synergy and integrity.
 
 *Application to Tech:* Kay used this philosophy to pioneer object-oriented programming and dynamic messaging, prioritizing how software modules communicate with each other over their internal data properties.
+
+[Alan Kay at OOPSLA 1997 - The Computer Revolution Hasn't Happened Yet](https://www.youtube.com/watch?v=oKg1hTOQXoY)
