@@ -58,3 +58,17 @@ This quote came about when I was interviewing David Cantor for a blog I was writ
 ## John Muir on the Connected Universe
 
 *When we try to pick out anything by itself, we find it hitched to everything else in the Universe.* - John Muir
+
+## Alan Kay on Architecture
+
+*In matters of scaling, architecture dominates materials.*
+
+Alan Key used this concept to explain how system structure matters far more than individual components - The Core Metaphor: building software to construction
+
+Note that the "arch" in the word "architecture" refers to how we build arches in buildings.
+
+Anyone can easily build a simple doghouse out of basic materials. However, you cannot scale a doghouse to the size of a cathedral simply by adding more wood and nails—it will collapse under its own weight.
+
+*The Need for Architecture:* Creating massive systems requires an entirely different structural approach (like the arches in a Gothic cathedral), where a clever, non-linear design allows simple materials to achieve incredible synergy and integrity.
+
+*Application to Tech:* Kay used this philosophy to pioneer object-oriented programming and dynamic messaging, prioritizing how software modules communicate with each other over their internal data properties.
