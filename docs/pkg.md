@@ -13,7 +13,7 @@ being uses as the basis for many projects that are creating personal knowledge a
 
 [Personal Knowledge Graphs](https://towardsdatascience.com/personal-knowledge-graphs-9a23a0b099af) - this is one of my most popular blogs with over 1,000 claps.  The orignal blog was reposed on the Towards Data Science publication.  The article was originally published on Apr 6, 2022.
 
-[Integrating PKGs into the Enterprise](https://medium.com/p/31c913b96b94) - published December 5th 2020.
+[Integrating PKGs into the Enterprise](https://medium.com/p/31c913b96b94) - published December 5th 2022.
 
 [Integrating Siloed Personal Knowledge Graphs](https://dmccreary.medium.com/integrating-siloed-personal-knowledge-graphs-d0e68bd06685) - published Dec 10, 2022.
 
